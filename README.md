@@ -4,6 +4,8 @@ a modular RGB LED display made from identical PCBs. use one tile on its own, con
 
 i want to be able to rearrange the tiles without needing different boards for the corners or edges. a 1 x 3 strip, a 2 x 2 square and a 3 x 3 panel would all use the same PCB
 
+![sketch of nine tiles with male headers on the top and left, and female headers on the bottom and right](images/tile-layout-sketch.png)
+
 ## the plan
 
 each tile will have a grid of RGB LEDs on the front, with the electronics and connectors behind it. the idea is male connectors on the top and left, and female connectors on the bottom and right. all the tiles face the same way
