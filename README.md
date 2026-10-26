@@ -17,3 +17,5 @@ the LED spacing should stay the same across the joins. i'm still choosing the ti
 open [rgb-tiles.kicad_pro](rgb-tiles.kicad_pro) in KiCad 10. the schematic and PCB are empty for now
 
 made for Hack Club Half Life, week 4
+
+[Half Life project](https://halflife.hackclub.com/projects/c01og00redvbnb7qoo1i9yo8)
