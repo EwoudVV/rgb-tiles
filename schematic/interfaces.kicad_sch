@@ -1512,7 +1512,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_02x06_Odd_Even"
+		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1523,7 +1523,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at 1.27 7.62 0)
+				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1532,8 +1532,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_02x06_Odd_Even"
-				(at 1.27 -10.16 0)
+			(property "Value" "Conn_01x06"
+				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1564,7 +1564,7 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1586,7 +1586,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_2x??_*"
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1597,10 +1597,10 @@
 					)
 				)
 			)
-			(symbol "Conn_02x06_Odd_Even_1_1"
+			(symbol "Conn_01x06_1_1"
 				(rectangle
 					(start -1.27 6.35)
-					(end 3.81 -8.89)
+					(end 1.27 -8.89)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1675,72 +1675,6 @@
 						(type none)
 					)
 				)
-				(rectangle
-					(start 3.81 5.207)
-					(end 2.54 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 2.667)
-					(end 2.54 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 0.127)
-					(end 2.54 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -2.413)
-					(end 2.54 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -4.953)
-					(end 2.54 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 -7.493)
-					(end 2.54 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin passive line
 					(at -5.08 5.08 0)
 					(length 3.81)
@@ -1760,7 +1694,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 5.08 180)
+					(at -5.08 2.54 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -1778,7 +1712,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 2.54 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -1796,7 +1730,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 2.54 180)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_4"
 						(effects
@@ -1814,7 +1748,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -5.08 -5.08 0)
 					(length 3.81)
 					(name "Pin_5"
 						(effects
@@ -1832,7 +1766,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 0 180)
+					(at -5.08 -7.62 0)
 					(length 3.81)
 					(name "Pin_6"
 						(effects
@@ -1842,114 +1776,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 180)
-					(length 3.81)
-					(name "Pin_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -7.62 180)
-					(length 3.81)
-					(name "Pin_12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3449,28 +3275,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 190.5)
-			(xy 59.69 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 0fe4ac66-c7f8-520e-adc6-73b4a87620b6)
-	)
-	(global_label "+12V_N"
-		(shape bidirectional)
-		(at 59.69 190.5 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid b62b03fa-cffd-58be-a57d-cbcd1c0f237e)
-	)
-	(wire
-		(pts
 			(xy 39.37 193.04)
 			(xy 34.29 193.04)
 		)
@@ -3478,7 +3282,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 55257ca2-9fed-5e41-b1a3-41e585561941)
+		(uuid 0fe4ac66-c7f8-520e-adc6-73b4a87620b6)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -3493,28 +3297,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 193.04)
-			(xy 57.15 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 9782674c-4e76-5bc7-9f17-198dcb85d7bf)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 57.15 193.04 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 3b89a627-d38a-5369-9a27-ab976fc61e2a)
-	)
-	(wire
-		(pts
 			(xy 39.37 195.58)
 			(xy 30.48 195.58)
 		)
@@ -3522,7 +3304,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 731e06d0-b708-573c-846c-d4bb1c24df4b)
+		(uuid 55257ca2-9fed-5e41-b1a3-41e585561941)
 	)
 	(global_label "N_TX_EDGE"
 		(shape bidirectional)
@@ -3537,28 +3319,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 195.58)
-			(xy 57.15 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 9c88d66e-39ef-5487-8ea5-01b67c7f35ed)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 57.15 195.58 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 6de5741e-80a1-5152-8001-65cb3e05e705)
-	)
-	(wire
-		(pts
 			(xy 39.37 198.12)
 			(xy 30.48 198.12)
 		)
@@ -3566,7 +3326,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 57cd39ba-1a99-507e-bd6a-8a23e8a737e3)
+		(uuid 9782674c-4e76-5bc7-9f17-198dcb85d7bf)
 	)
 	(global_label "N_RX_EDGE"
 		(shape bidirectional)
@@ -3581,28 +3341,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 198.12)
-			(xy 57.15 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid a27dce2b-8fb3-5730-8726-b5c9ed28448d)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 57.15 198.12 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 32d4fdf5-dd0c-5ef8-aff7-c043b2690daf)
-	)
-	(wire
-		(pts
 			(xy 39.37 200.66)
 			(xy 34.29 200.66)
 		)
@@ -3610,7 +3348,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 9727505f-f5bb-5b43-950a-52c78e987d45)
+		(uuid 731e06d0-b708-573c-846c-d4bb1c24df4b)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -3625,28 +3363,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 200.66)
-			(xy 57.15 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 904dba59-b5b2-594a-b4da-4ba38c719613)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 57.15 200.66 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid f37061cb-3e13-5c93-9b38-1f8a73efec41)
-	)
-	(wire
-		(pts
 			(xy 39.37 203.2)
 			(xy 31.75 203.2)
 		)
@@ -3654,7 +3370,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 9620a281-5f9c-529a-9a2f-e1c2dbb3e103)
+		(uuid 9c88d66e-39ef-5487-8ea5-01b67c7f35ed)
 	)
 	(global_label "+12V_N"
 		(shape bidirectional)
@@ -3667,30 +3383,8 @@
 		)
 		(uuid f3c17db0-1cb9-5f63-8c39-67efcacc7ab3)
 	)
-	(wire
-		(pts
-			(xy 52.07 203.2)
-			(xy 59.69 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 8b3db81f-4358-5daf-9d45-e4e41f4e8c7a)
-	)
-	(global_label "+12V_N"
-		(shape bidirectional)
-		(at 59.69 203.2 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 0fa0ee1d-cbc6-5131-8ebf-a0576bb846c4)
-	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x06_Odd_Even")
+		(lib_id "Connector_Generic:Conn_01x06")
 		(at 44.45 195.58 0)
 		(unit 1)
 		(in_bom yes)
@@ -3698,22 +3392,22 @@
 		(dnp no)
 		(uuid aeed9b6a-620f-571f-a46c-4c70696062b2)
 		(property "Reference" "J2"
-			(at 45.72 187.96 0)
+			(at 44.45 187.96 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Value" "N / A2541WR-2x6P"
-			(at 45.72 205.74 0)
+		(property "Value" "N / M20-8890645R"
+			(at 44.45 205.74 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Footprint" "RGB_Tiles:CJT_A2541WR_2x06_P2.54mm_RA"
+		(property "Footprint" "RGB_Tiles:Harwin_M20-8890645R_1x06_RA_SMD"
 			(at 44.45 195.58 0)
 			(effects
 				(font
@@ -3722,7 +3416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://www.harwin.com/products/M20-8890645R"
 			(at 44.45 195.58 0)
 			(effects
 				(font
@@ -3749,24 +3443,6 @@
 		(pin "6"
 			(uuid ea8a542e-59f7-5461-a650-01d45e8f2420)
 		)
-		(pin "7"
-			(uuid dd8d02a8-3b14-57e1-b05c-5940a587765e)
-		)
-		(pin "8"
-			(uuid 217a9155-f0d5-59e1-8232-36d0dfd9a4dc)
-		)
-		(pin "9"
-			(uuid b830a1d4-331a-5041-91dc-865b158297ba)
-		)
-		(pin "10"
-			(uuid 980b20a7-02f1-598e-9332-41a40b2a5197)
-		)
-		(pin "11"
-			(uuid 9e37b0da-e80f-5fe6-b600-8b27a9a8e0da)
-		)
-		(pin "12"
-			(uuid 1420fc06-0a54-5412-ba83-b63d2cfcbc9c)
-		)
 		(instances
 			(project "rgb-tiles"
 				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8/980d77d5-045d-5a8c-bfd4-098b2fe16370"
@@ -3775,7 +3451,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Harwin"
 			(at 44.45 195.58 0)
 			(effects
 				(font
@@ -3784,7 +3460,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "A2541WR-2x6P"
+		(property "MPN" "M20-8890645R"
 			(at 44.45 195.58 0)
 			(effects
 				(font
@@ -5272,28 +4948,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 190.5)
-			(xy 154.94 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid e9d3e7be-3275-527a-878a-5e86e409cd1f)
-	)
-	(global_label "+12V_E"
-		(shape bidirectional)
-		(at 154.94 190.5 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid af34d7f2-7b06-5278-aac1-0ce24651d9f9)
-	)
-	(wire
-		(pts
 			(xy 134.62 193.04)
 			(xy 129.54 193.04)
 		)
@@ -5301,7 +4955,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 9c7bf65b-dc2a-5d8f-9b93-1d6073fabd1a)
+		(uuid e9d3e7be-3275-527a-878a-5e86e409cd1f)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -5316,28 +4970,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 193.04)
-			(xy 152.4 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 1dc287c3-3c9e-5972-85e5-f6379b48b8ce)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 152.4 193.04 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 3be93ce4-8c38-519c-b923-fcce5a27cf4e)
-	)
-	(wire
-		(pts
 			(xy 134.62 195.58)
 			(xy 125.73 195.58)
 		)
@@ -5345,7 +4977,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid cf96b17d-623c-59d1-adc9-c97ac83e5085)
+		(uuid 9c7bf65b-dc2a-5d8f-9b93-1d6073fabd1a)
 	)
 	(global_label "E_RX_EDGE"
 		(shape bidirectional)
@@ -5360,28 +4992,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 195.58)
-			(xy 152.4 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 3164fde8-073b-52f1-85be-6f91baac2c6c)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 152.4 195.58 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid a7ffe6fe-d2a6-5e60-b364-ccde14dba010)
-	)
-	(wire
-		(pts
 			(xy 134.62 198.12)
 			(xy 125.73 198.12)
 		)
@@ -5389,7 +4999,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 7766ac4c-ec7d-5ef9-a7b8-85fb096d30ba)
+		(uuid 1dc287c3-3c9e-5972-85e5-f6379b48b8ce)
 	)
 	(global_label "E_TX_EDGE"
 		(shape bidirectional)
@@ -5404,28 +5014,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 198.12)
-			(xy 152.4 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 344e6102-b7da-5e7d-80c5-3453112582b9)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 152.4 198.12 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 8108eb68-c87f-5d17-bbc2-7b7f06653940)
-	)
-	(wire
-		(pts
 			(xy 134.62 200.66)
 			(xy 129.54 200.66)
 		)
@@ -5433,7 +5021,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid bd5da1a8-d7c4-5eff-a3b5-c3cb05f7fa9c)
+		(uuid cf96b17d-623c-59d1-adc9-c97ac83e5085)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -5448,28 +5036,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 200.66)
-			(xy 152.4 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 498eb646-93ee-5e1e-8292-dc77f2b2bf63)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 152.4 200.66 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 5812a0c1-0f11-531f-ba07-e02e74c838bd)
-	)
-	(wire
-		(pts
 			(xy 134.62 203.2)
 			(xy 127.0 203.2)
 		)
@@ -5477,7 +5043,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 85159874-73e5-502c-a4c0-d122032bbcb2)
+		(uuid 3164fde8-073b-52f1-85be-6f91baac2c6c)
 	)
 	(global_label "+12V_E"
 		(shape bidirectional)
@@ -5490,30 +5056,8 @@
 		)
 		(uuid 0ab79845-a539-595c-9694-032d6c7625e9)
 	)
-	(wire
-		(pts
-			(xy 147.32 203.2)
-			(xy 154.94 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 9766a6f4-fa77-535b-9ad5-44c99d0cc196)
-	)
-	(global_label "+12V_E"
-		(shape bidirectional)
-		(at 154.94 203.2 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 273ecb58-40ca-5287-b9c3-7016782350fc)
-	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x06_Odd_Even")
+		(lib_id "Connector_Generic:Conn_01x06")
 		(at 139.7 195.58 0)
 		(unit 1)
 		(in_bom yes)
@@ -5521,22 +5065,22 @@
 		(dnp no)
 		(uuid 7554335f-6403-5117-98d7-3a3d4115c305)
 		(property "Reference" "J3"
-			(at 140.97 187.96 0)
+			(at 139.7 187.96 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Value" "E / A2541HWR-2x6P"
-			(at 140.97 205.74 0)
+		(property "Value" "E / M20-7910642R"
+			(at 139.7 205.74 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Footprint" "RGB_Tiles:CJT_A2541HWR_2x06_P2.54mm_RA"
+		(property "Footprint" "RGB_Tiles:Harwin_M20-7910642R_1x06_RA_SMD"
 			(at 139.7 195.58 0)
 			(effects
 				(font
@@ -5545,7 +5089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://www.harwin.com/products/M20-7910642R"
 			(at 139.7 195.58 0)
 			(effects
 				(font
@@ -5572,24 +5116,6 @@
 		(pin "6"
 			(uuid b04ac817-6842-54d0-ad3d-bcc2aae1cf7b)
 		)
-		(pin "7"
-			(uuid 0131ab0b-00a2-53ae-9d62-b00ba8d1edeb)
-		)
-		(pin "8"
-			(uuid 6d686a4f-8587-5f43-a919-f10325f19621)
-		)
-		(pin "9"
-			(uuid f6700d78-c02d-55bf-9293-c9dd86df03d6)
-		)
-		(pin "10"
-			(uuid 87456f16-6e97-5eda-80cb-ba47b7b37fc5)
-		)
-		(pin "11"
-			(uuid c06c8b92-57a6-5329-834c-e25529e10a75)
-		)
-		(pin "12"
-			(uuid 4fbc1642-7526-5b0c-bdaa-844b728dd6c0)
-		)
 		(instances
 			(project "rgb-tiles"
 				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8/980d77d5-045d-5a8c-bfd4-098b2fe16370"
@@ -5598,7 +5124,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Harwin"
 			(at 139.7 195.58 0)
 			(effects
 				(font
@@ -5607,7 +5133,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "A2541HWR-2x6P"
+		(property "MPN" "M20-7910642R"
 			(at 139.7 195.58 0)
 			(effects
 				(font
@@ -7095,28 +6621,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 190.5)
-			(xy 250.19 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 070f7d67-f286-5f00-908d-b00ed114a0a3)
-	)
-	(global_label "+12V_S"
-		(shape bidirectional)
-		(at 250.19 190.5 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 4ca2e874-43f5-54fa-9583-34a7bf209d8f)
-	)
-	(wire
-		(pts
 			(xy 229.87 193.04)
 			(xy 224.79 193.04)
 		)
@@ -7124,7 +6628,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 98979fd4-079d-58bf-a0f4-850768f59997)
+		(uuid 070f7d67-f286-5f00-908d-b00ed114a0a3)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -7139,28 +6643,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 193.04)
-			(xy 247.65 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid b1b5c6d1-d99f-524b-8414-002799d42e5f)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 247.65 193.04 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 54c4232b-84c5-5d4a-beb5-d0245de8f455)
-	)
-	(wire
-		(pts
 			(xy 229.87 195.58)
 			(xy 220.98 195.58)
 		)
@@ -7168,7 +6650,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid d8301b3c-bd37-5d50-b900-06b89a322180)
+		(uuid 98979fd4-079d-58bf-a0f4-850768f59997)
 	)
 	(global_label "S_RX_EDGE"
 		(shape bidirectional)
@@ -7183,28 +6665,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 195.58)
-			(xy 247.65 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 53c0b815-a734-52cf-89f6-5dacc7448994)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 247.65 195.58 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 01378c42-b6b2-5824-9f95-3facf7f83db9)
-	)
-	(wire
-		(pts
 			(xy 229.87 198.12)
 			(xy 220.98 198.12)
 		)
@@ -7212,7 +6672,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 2a43d1be-73aa-515d-a9f4-f6ba5b9fe0b4)
+		(uuid b1b5c6d1-d99f-524b-8414-002799d42e5f)
 	)
 	(global_label "S_TX_EDGE"
 		(shape bidirectional)
@@ -7227,28 +6687,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 198.12)
-			(xy 247.65 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 63e579d1-e4d4-5b5f-b9e4-08dfee10501e)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 247.65 198.12 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 187aa5a4-8b11-5e5a-87ca-32f5f6b7f6be)
-	)
-	(wire
-		(pts
 			(xy 229.87 200.66)
 			(xy 224.79 200.66)
 		)
@@ -7256,7 +6694,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid e0ab540b-2571-5cab-bfcf-e5c5ee0aa0c2)
+		(uuid d8301b3c-bd37-5d50-b900-06b89a322180)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -7271,28 +6709,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 200.66)
-			(xy 247.65 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 8fb8be8d-6238-56b2-b845-415aaf26d702)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 247.65 200.66 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 4d788b1b-5257-54a0-8ee4-8c69ffc7432a)
-	)
-	(wire
-		(pts
 			(xy 229.87 203.2)
 			(xy 222.25 203.2)
 		)
@@ -7300,7 +6716,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 6f5ff705-ce7e-52e2-8372-4549afbf8627)
+		(uuid 53c0b815-a734-52cf-89f6-5dacc7448994)
 	)
 	(global_label "+12V_S"
 		(shape bidirectional)
@@ -7313,30 +6729,8 @@
 		)
 		(uuid 84c53ecc-823b-5214-a44b-f6dbd4ac208d)
 	)
-	(wire
-		(pts
-			(xy 242.57 203.2)
-			(xy 250.19 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 4a72d906-a40e-584e-8bf8-1e3c2ac78f62)
-	)
-	(global_label "+12V_S"
-		(shape bidirectional)
-		(at 250.19 203.2 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 1159fd48-a9bb-53e0-9994-5811a63563f0)
-	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x06_Odd_Even")
+		(lib_id "Connector_Generic:Conn_01x06")
 		(at 234.95 195.58 0)
 		(unit 1)
 		(in_bom yes)
@@ -7344,22 +6738,22 @@
 		(dnp no)
 		(uuid 3272e666-2470-544b-86df-c3fb3adcd4f1)
 		(property "Reference" "J4"
-			(at 236.22 187.96 0)
+			(at 234.95 187.96 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Value" "S / A2541HWR-2x6P"
-			(at 236.22 205.74 0)
+		(property "Value" "S / M20-7910642R"
+			(at 234.95 205.74 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Footprint" "RGB_Tiles:CJT_A2541HWR_2x06_P2.54mm_RA"
+		(property "Footprint" "RGB_Tiles:Harwin_M20-7910642R_1x06_RA_SMD"
 			(at 234.95 195.58 0)
 			(effects
 				(font
@@ -7368,7 +6762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://www.harwin.com/products/M20-7910642R"
 			(at 234.95 195.58 0)
 			(effects
 				(font
@@ -7395,24 +6789,6 @@
 		(pin "6"
 			(uuid 29749532-c25b-5de3-bf9f-562a056bf367)
 		)
-		(pin "7"
-			(uuid f49a964f-4703-584f-9219-ed8115a40e86)
-		)
-		(pin "8"
-			(uuid 68d66087-b7bf-517f-bf37-4e59916a9268)
-		)
-		(pin "9"
-			(uuid a352a6c6-6f31-520b-a803-b46471ab74be)
-		)
-		(pin "10"
-			(uuid 10b33c94-268b-53b2-ba13-d9c1794ca6b8)
-		)
-		(pin "11"
-			(uuid a044b4c6-12ec-54f5-88ef-b986425a7238)
-		)
-		(pin "12"
-			(uuid 90aa31e5-70d7-57f0-9918-e5b7ee40ca19)
-		)
 		(instances
 			(project "rgb-tiles"
 				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8/980d77d5-045d-5a8c-bfd4-098b2fe16370"
@@ -7421,7 +6797,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Harwin"
 			(at 234.95 195.58 0)
 			(effects
 				(font
@@ -7430,7 +6806,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "A2541HWR-2x6P"
+		(property "MPN" "M20-7910642R"
 			(at 234.95 195.58 0)
 			(effects
 				(font
@@ -8918,28 +8294,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 190.5)
-			(xy 345.44 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid f90537d9-c4ac-5057-9766-3d53dda2a90d)
-	)
-	(global_label "+12V_W"
-		(shape bidirectional)
-		(at 345.44 190.5 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid e4e65177-ae9e-591c-8aaa-84bc2bad1c2f)
-	)
-	(wire
-		(pts
 			(xy 325.12 193.04)
 			(xy 320.04 193.04)
 		)
@@ -8947,7 +8301,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 3f7957b1-7fed-5ba6-a0b8-0e5aea5f6545)
+		(uuid f90537d9-c4ac-5057-9766-3d53dda2a90d)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -8962,28 +8316,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 193.04)
-			(xy 342.9 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 102b55d9-7966-5f23-bd05-7c40d690172e)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 342.9 193.04 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid cc480e7c-4a7c-596b-95d2-59a17253dd73)
-	)
-	(wire
-		(pts
 			(xy 325.12 195.58)
 			(xy 316.23 195.58)
 		)
@@ -8991,7 +8323,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid a89013b3-0f2c-5879-ac08-81a282647261)
+		(uuid 3f7957b1-7fed-5ba6-a0b8-0e5aea5f6545)
 	)
 	(global_label "W_TX_EDGE"
 		(shape bidirectional)
@@ -9006,28 +8338,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 195.58)
-			(xy 342.9 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid d6a9fceb-f8cd-54d7-8149-ef4044c2f79d)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 342.9 195.58 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid a2bc888e-6228-5c37-8965-798d4f365eec)
-	)
-	(wire
-		(pts
 			(xy 325.12 198.12)
 			(xy 316.23 198.12)
 		)
@@ -9035,7 +8345,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 4c919100-39e6-56b0-98c5-af4f0533bb66)
+		(uuid 102b55d9-7966-5f23-bd05-7c40d690172e)
 	)
 	(global_label "W_RX_EDGE"
 		(shape bidirectional)
@@ -9050,28 +8360,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 198.12)
-			(xy 342.9 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 651017e0-af3d-5e23-92e9-aeab748bec5c)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 342.9 198.12 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 7a715636-cb9e-52f8-8983-15e9f37d1872)
-	)
-	(wire
-		(pts
 			(xy 325.12 200.66)
 			(xy 320.04 200.66)
 		)
@@ -9079,7 +8367,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid 7392acd8-e313-53f5-bf51-e652c954dfc1)
+		(uuid a89013b3-0f2c-5879-ac08-81a282647261)
 	)
 	(global_label "GND"
 		(shape bidirectional)
@@ -9094,28 +8382,6 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 200.66)
-			(xy 342.9 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 70cadb09-be5e-5a64-8f3a-23e85438eb29)
-	)
-	(global_label "GND"
-		(shape bidirectional)
-		(at 342.9 200.66 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid 3b798dd0-17ab-5a54-9417-d759367948de)
-	)
-	(wire
-		(pts
 			(xy 325.12 203.2)
 			(xy 317.5 203.2)
 		)
@@ -9123,7 +8389,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid a8b533aa-5f49-5cd5-8266-625c0b785c11)
+		(uuid d6a9fceb-f8cd-54d7-8149-ef4044c2f79d)
 	)
 	(global_label "+12V_W"
 		(shape bidirectional)
@@ -9136,30 +8402,8 @@
 		)
 		(uuid a25bf09e-52bd-5bf4-b0b0-da0729664421)
 	)
-	(wire
-		(pts
-			(xy 337.82 203.2)
-			(xy 345.44 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid 471203af-4efc-5789-85ed-9b134fdc76ba)
-	)
-	(global_label "+12V_W"
-		(shape bidirectional)
-		(at 345.44 203.2 0)
-		(effects
-			(font
-				(size 0.9 0.9)
-			)
-			(justify left)
-		)
-		(uuid fb5344b1-c0bc-5b96-a862-85b0ec608496)
-	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x06_Odd_Even")
+		(lib_id "Connector_Generic:Conn_01x06")
 		(at 330.2 195.58 0)
 		(unit 1)
 		(in_bom yes)
@@ -9167,22 +8411,22 @@
 		(dnp no)
 		(uuid 19f0321f-e5e4-56f3-a68e-7236f4a36ebe)
 		(property "Reference" "J5"
-			(at 331.47 187.96 0)
+			(at 330.2 187.96 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Value" "W / A2541WR-2x6P"
-			(at 331.47 205.74 0)
+		(property "Value" "W / M20-8890645R"
+			(at 330.2 205.74 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Footprint" "RGB_Tiles:CJT_A2541WR_2x06_P2.54mm_RA"
+		(property "Footprint" "RGB_Tiles:Harwin_M20-8890645R_1x06_RA_SMD"
 			(at 330.2 195.58 0)
 			(effects
 				(font
@@ -9191,7 +8435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://www.harwin.com/products/M20-8890645R"
 			(at 330.2 195.58 0)
 			(effects
 				(font
@@ -9218,24 +8462,6 @@
 		(pin "6"
 			(uuid 613e99a1-77ac-505e-9c25-4415792fca5d)
 		)
-		(pin "7"
-			(uuid b81a2dc8-6939-5244-bd67-d6592a3be8a0)
-		)
-		(pin "8"
-			(uuid 03e368d9-2a35-51f9-87a1-8ef47180c825)
-		)
-		(pin "9"
-			(uuid 4aa40ee7-dab8-5403-816b-a6181ad4c102)
-		)
-		(pin "10"
-			(uuid a8ef7fc2-3ae1-5361-8bd5-55cd15941261)
-		)
-		(pin "11"
-			(uuid ad97ea16-80a8-5b90-966a-35647ddcb76e)
-		)
-		(pin "12"
-			(uuid f1a82f59-a3d9-5b0d-9c60-17e803320c94)
-		)
 		(instances
 			(project "rgb-tiles"
 				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8/980d77d5-045d-5a8c-bfd4-098b2fe16370"
@@ -9244,7 +8470,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Harwin"
 			(at 330.2 195.58 0)
 			(effects
 				(font
@@ -9253,7 +8479,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "A2541WR-2x6P"
+		(property "MPN" "M20-8890645R"
 			(at 330.2 195.58 0)
 			(effects
 				(font

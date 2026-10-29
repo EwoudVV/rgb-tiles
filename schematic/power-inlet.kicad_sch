@@ -1559,7 +1559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.66x2.46mm_ThermalVias"
+		(property "Footprint" "RGB_Tiles:HTSSOP16_EP_4.4x5_P0.65_Vias0.3"
 			(at 110.49 105.41 0)
 			(effects
 				(font

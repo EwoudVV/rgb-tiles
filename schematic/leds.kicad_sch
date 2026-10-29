@@ -573,7 +573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 44.45 0)
 			(effects
 				(font
@@ -865,7 +865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 44.45 0)
 			(effects
 				(font
@@ -1157,7 +1157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 44.45 0)
 			(effects
 				(font
@@ -1449,7 +1449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 44.45 0)
 			(effects
 				(font
@@ -1741,7 +1741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 44.45 0)
 			(effects
 				(font
@@ -2033,7 +2033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 44.45 0)
 			(effects
 				(font
@@ -2325,7 +2325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 44.45 0)
 			(effects
 				(font
@@ -2617,7 +2617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 44.45 0)
 			(effects
 				(font
@@ -2909,7 +2909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 87.63 0)
 			(effects
 				(font
@@ -3201,7 +3201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 87.63 0)
 			(effects
 				(font
@@ -3493,7 +3493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 87.63 0)
 			(effects
 				(font
@@ -3785,7 +3785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 87.63 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 87.63 0)
 			(effects
 				(font
@@ -4369,7 +4369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 87.63 0)
 			(effects
 				(font
@@ -4661,7 +4661,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 87.63 0)
 			(effects
 				(font
@@ -4953,7 +4953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 87.63 0)
 			(effects
 				(font
@@ -5245,7 +5245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 130.81 0)
 			(effects
 				(font
@@ -5537,7 +5537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 130.81 0)
 			(effects
 				(font
@@ -5829,7 +5829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 130.81 0)
 			(effects
 				(font
@@ -6121,7 +6121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 130.81 0)
 			(effects
 				(font
@@ -6413,7 +6413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 130.81 0)
 			(effects
 				(font
@@ -6705,7 +6705,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 130.81 0)
 			(effects
 				(font
@@ -6997,7 +6997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 130.81 0)
 			(effects
 				(font
@@ -7289,7 +7289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 130.81 0)
 			(effects
 				(font
@@ -7581,7 +7581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 173.99 0)
 			(effects
 				(font
@@ -7873,7 +7873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 173.99 0)
 			(effects
 				(font
@@ -8165,7 +8165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 173.99 0)
 			(effects
 				(font
@@ -8457,7 +8457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 173.99 0)
 			(effects
 				(font
@@ -8749,7 +8749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 173.99 0)
 			(effects
 				(font
@@ -9041,7 +9041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 173.99 0)
 			(effects
 				(font
@@ -9333,7 +9333,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 173.99 0)
 			(effects
 				(font
@@ -9625,7 +9625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 173.99 0)
 			(effects
 				(font
@@ -9917,7 +9917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 217.17 0)
 			(effects
 				(font
@@ -10209,7 +10209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 217.17 0)
 			(effects
 				(font
@@ -10501,7 +10501,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 217.17 0)
 			(effects
 				(font
@@ -10793,7 +10793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 217.17 0)
 			(effects
 				(font
@@ -11085,7 +11085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 217.17 0)
 			(effects
 				(font
@@ -11377,7 +11377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 217.17 0)
 			(effects
 				(font
@@ -11669,7 +11669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 217.17 0)
 			(effects
 				(font
@@ -11961,7 +11961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 217.17 0)
 			(effects
 				(font
@@ -12253,7 +12253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 260.35 0)
 			(effects
 				(font
@@ -12545,7 +12545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 260.35 0)
 			(effects
 				(font
@@ -12837,7 +12837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 260.35 0)
 			(effects
 				(font
@@ -13129,7 +13129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 260.35 0)
 			(effects
 				(font
@@ -13421,7 +13421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 260.35 0)
 			(effects
 				(font
@@ -13713,7 +13713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 260.35 0)
 			(effects
 				(font
@@ -14005,7 +14005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 260.35 0)
 			(effects
 				(font
@@ -14297,7 +14297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 260.35 0)
 			(effects
 				(font
@@ -14589,7 +14589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 303.53 0)
 			(effects
 				(font
@@ -14881,7 +14881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 303.53 0)
 			(effects
 				(font
@@ -15173,7 +15173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 303.53 0)
 			(effects
 				(font
@@ -15465,7 +15465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 303.53 0)
 			(effects
 				(font
@@ -15757,7 +15757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 303.53 0)
 			(effects
 				(font
@@ -16049,7 +16049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 303.53 0)
 			(effects
 				(font
@@ -16341,7 +16341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 303.53 0)
 			(effects
 				(font
@@ -16633,7 +16633,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 303.53 0)
 			(effects
 				(font
@@ -16925,7 +16925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 35.56 345.44 0)
 			(effects
 				(font
@@ -17217,7 +17217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 105.41 345.44 0)
 			(effects
 				(font
@@ -17509,7 +17509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 175.26 345.44 0)
 			(effects
 				(font
@@ -17801,7 +17801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 245.11 345.44 0)
 			(effects
 				(font
@@ -18093,7 +18093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 314.96 345.44 0)
 			(effects
 				(font
@@ -18385,7 +18385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 384.81 345.44 0)
 			(effects
 				(font
@@ -18677,7 +18677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 454.66 345.44 0)
 			(effects
 				(font
@@ -18951,7 +18951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard"
 			(at 524.51 345.44 0)
 			(effects
 				(font
