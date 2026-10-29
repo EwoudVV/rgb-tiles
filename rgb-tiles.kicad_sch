@@ -1,1 +1,329 @@
-(kicad_sch (version 20260306) (generator eeschema) (generator_version "10.0") (uuid 7657fcf6-45ba-4232-afb3-70d6b47c6ba8) (paper "A3") (title_block (title "RGB Tiles")) (lib_symbols) (text "RGB TILES" (at 25 20 0) (effects (font (size 2 2)) (justify left)) (uuid 99b77d90-5fb0-512c-b10b-e67826bb4e1e)) (sheet (at 35 45) (size 130 45) (stroke (width 0.1524) (type default)) (fill (color 0 0 0 0)) (uuid 5427b6cf-feab-5a31-babe-c75b1c9bca48) (property "Sheetname" "controller" (at 35 43.73 0) (effects (font (size 1.27 1.27)) (justify left bottom))) (property "Sheetfile" "schematic/controller.kicad_sch" (at 35 91.27000000000001 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "rgb-tiles" (path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8" (page "2"))))) (sheet (at 205 45) (size 130 45) (stroke (width 0.1524) (type default)) (fill (color 0 0 0 0)) (uuid ffef5b8f-9844-510c-b9ec-2f8864cce983) (property "Sheetname" "leds" (at 205 43.73 0) (effects (font (size 1.27 1.27)) (justify left bottom))) (property "Sheetfile" "schematic/leds.kicad_sch" (at 205 91.27000000000001 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "rgb-tiles" (path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8" (page "3"))))) (sheet (at 35 120) (size 130 45) (stroke (width 0.1524) (type default)) (fill (color 0 0 0 0)) (uuid 5965c53f-a6fa-5f39-adda-87b3470a1e92) (property "Sheetname" "power" (at 35 118.73 0) (effects (font (size 1.27 1.27)) (justify left bottom))) (property "Sheetfile" "schematic/power.kicad_sch" (at 35 166.27 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "rgb-tiles" (path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8" (page "4"))))) (sheet (at 205 120) (size 130 45) (stroke (width 0.1524) (type default)) (fill (color 0 0 0 0)) (uuid 980d77d5-045d-5a8c-bfd4-098b2fe16370) (property "Sheetname" "interfaces" (at 205 118.73 0) (effects (font (size 1.27 1.27)) (justify left bottom))) (property "Sheetfile" "schematic/interfaces.kicad_sch" (at 205 166.27 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "rgb-tiles" (path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8" (page "5"))))) (sheet (at 35 195) (size 130 45) (stroke (width 0.1524) (type default)) (fill (color 0 0 0 0)) (uuid 4bd4038c-e963-53fb-a800-26c2e305e5d7) (property "Sheetname" "usb-led-data" (at 35 193.73 0) (effects (font (size 1.27 1.27)) (justify left bottom))) (property "Sheetfile" "schematic/usb-led-data.kicad_sch" (at 35 241.27 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "rgb-tiles" (path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8" (page "6"))))) (sheet_instances (path "/" (page "1"))) (embedded_fonts no))
+(kicad_sch
+	(version 20260306)
+	(generator eeschema)
+	(generator_version "10.0")
+	(uuid 7657fcf6-45ba-4232-afb3-70d6b47c6ba8)
+	(paper "A3")
+	(title_block
+		(title "RGB Tiles")
+	)
+	(lib_symbols)
+	(text "RGB TILES"
+		(at 25 20 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left)
+		)
+		(uuid 99b77d90-5fb0-512c-b10b-e67826bb4e1e)
+	)
+	(text "12V DC / 8 x 8 WS2812C-V6 / RP2040"
+		(at 25 31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid ad3b3d81-4027-52f5-b5b1-0526d8dfd0e8)
+	)
+	(text "J8-J11: fit shunts inside a power section; open at section boundaries."
+		(at 25 280 0)
+		(effects
+			(font
+				(size 1.1 1.1)
+			)
+			(justify left)
+		)
+		(uuid 2ab5cbde-bea1-56f1-98ea-76aa820fd9c5)
+	)
+	(text "RP2040 / QSPI flash / 12MHz crystal / SWD"
+		(at 43 65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid 82c433a8-05f7-5662-94ed-9b1555107fd8)
+	)
+	(sheet
+		(at 35 45)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 5427b6cf-feab-5a31-babe-c75b1c9bca48)
+		(property "Sheetname" "controller"
+			(at 35 43.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/controller.kicad_sch"
+			(at 35 91.27000000000001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(text "64 x WS2812C-V6 / 100nF at each pixel"
+		(at 213 65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid c16814b0-222e-5b66-80df-465d583cba8c)
+	)
+	(sheet
+		(at 205 45)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid ffef5b8f-9844-510c-b9ec-2f8864cce983)
+		(property "Sheetname" "leds"
+			(at 205 43.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/leds.kicad_sch"
+			(at 205 91.27000000000001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(text "12V to 5V buck / 3.3V LDO / rail test points"
+		(at 43 140 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid 545b1c72-96df-5c2b-9438-887d532bd53f)
+	)
+	(sheet
+		(at 35 120)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 5965c53f-a6fa-5f39-adda-87b3470a1e92)
+		(property "Sheetname" "power"
+			(at 35 118.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/power.kicad_sch"
+			(at 35 166.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(text "Four buffered serial links / fused edge power"
+		(at 213 140 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid d8b9f2ba-e04a-5bcb-8ec8-786dcf734d03)
+	)
+	(sheet
+		(at 205 120)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 980d77d5-045d-5a8c-bfd4-098b2fe16370)
+		(property "Sheetname" "interfaces"
+			(at 205 118.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/interfaces.kicad_sch"
+			(at 205 166.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(text "USB-C / USB ESD / LED level shifting"
+		(at 43 215 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid 896d102b-afa0-5f93-b4db-8b8af2144d2b)
+	)
+	(sheet
+		(at 35 195)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 4bd4038c-e963-53fb-a800-26c2e305e5d7)
+		(property "Sheetname" "usb-led-data"
+			(at 35 193.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/usb-led-data.kicad_sch"
+			(at 35 241.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "6")
+				)
+			)
+		)
+	)
+	(text "TPS26600 / 2A input limit / reverse polarity"
+		(at 213 215 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid cb54aea9-0767-5e4f-ba3c-a01986f1e637)
+	)
+	(sheet
+		(at 205 195)
+		(size 130 45)
+		(stroke
+			(width 0.1524)
+			(type default)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid 67742250-1fbf-5d9f-8779-796e29876d7b)
+		(property "Sheetname" "power-inlet"
+			(at 205 193.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematic/power-inlet.kicad_sch"
+			(at 205 241.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rgb-tiles"
+				(path "/7657fcf6-45ba-4232-afb3-70d6b47c6ba8"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
