@@ -10,8 +10,7 @@ include(${PICO_SDK_PATH}/external/pico_sdk_import.cmake)
 project(rgb_tiles C CXX ASM)
 set(CMAKE_C_STANDARD 11)
 pico_sdk_init()
-add_executable(rgb_tiles src/main.c src/io.c src/mesh.c src/protocol.c)
-target_include_directories(rgb_tiles PRIVATE include)
+add_executable(rgb_tiles src/main.c)
 pico_generate_pio_header(rgb_tiles ${CMAKE_CURRENT_LIST_DIR}/pio/links.pio)
 pico_generate_pio_header(rgb_tiles ${CMAKE_CURRENT_LIST_DIR}/pio/pixels.pio)
 target_compile_options(rgb_tiles PRIVATE -Wall -Wextra -Wshadow)
@@ -19,7 +18,7 @@ target_compile_definitions(rgb_tiles PRIVATE
     PICO_STDIO_USB_CONNECT_WAIT_TIMEOUT_MS=0
     PICO_STDIO_USB_STDOUT_TIMEOUT_US=1000
     PICO_STDIO_USB_PRODUCT_STRING="RGB Tiles")
-target_link_libraries(rgb_tiles pico_stdlib pico_stdio_usb pico_unique_id pico_rand hardware_uart hardware_pio hardware_dma hardware_clocks)
+target_link_libraries(rgb_tiles pico_stdlib hardware_uart hardware_pio hardware_clocks)
 pico_enable_stdio_usb(rgb_tiles 1)
 pico_enable_stdio_uart(rgb_tiles 0)
 pico_add_extra_outputs(rgb_tiles)
