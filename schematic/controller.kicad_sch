@@ -3790,7 +3790,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "W25Q16JVSSIQ"
+		(property "MPN" "W25Q16JVSSIM"
 			(at 199.39 69.85 0)
 			(effects
 				(font
@@ -4187,7 +4187,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TL3342F160QG/TR"
+		(property "MPN" "TL3342F160QG"
 			(at 260.35 69.85 0)
 			(effects
 				(font
@@ -4445,7 +4445,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TL3342F160QG/TR"
+		(property "MPN" "TL3342F160QG"
 			(at 199.39 110.49 0)
 			(effects
 				(font
@@ -5104,7 +5104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"
 			(at 345.44 64.77 0)
 			(effects
 				(font
@@ -5133,7 +5133,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Samtec"
 			(at 345.44 64.77 0)
 			(effects
 				(font
@@ -5142,7 +5142,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "A2541WV-4P"
+		(property "MPN" "TSW-104-07-T-S"
 			(at 345.44 64.77 0)
 			(effects
 				(font
@@ -5241,7 +5241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 30.48 209.55 0)
 			(effects
 				(font
@@ -5264,7 +5264,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 30.48 209.55 0)
 			(effects
 				(font
@@ -5273,7 +5273,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 30.48 209.55 0)
 			(effects
 				(font
@@ -5362,7 +5362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 67.31 209.55 0)
 			(effects
 				(font
@@ -5385,7 +5385,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 67.31 209.55 0)
 			(effects
 				(font
@@ -5394,7 +5394,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 67.31 209.55 0)
 			(effects
 				(font
@@ -5483,7 +5483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 104.14 209.55 0)
 			(effects
 				(font
@@ -5506,7 +5506,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 104.14 209.55 0)
 			(effects
 				(font
@@ -5515,7 +5515,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 104.14 209.55 0)
 			(effects
 				(font
@@ -5604,7 +5604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 140.97 209.55 0)
 			(effects
 				(font
@@ -5627,7 +5627,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 140.97 209.55 0)
 			(effects
 				(font
@@ -5636,7 +5636,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 140.97 209.55 0)
 			(effects
 				(font
@@ -5725,7 +5725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 177.8 209.55 0)
 			(effects
 				(font
@@ -5748,7 +5748,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 177.8 209.55 0)
 			(effects
 				(font
@@ -5757,7 +5757,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 177.8 209.55 0)
 			(effects
 				(font
@@ -5846,7 +5846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 214.63 209.55 0)
 			(effects
 				(font
@@ -5869,7 +5869,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 214.63 209.55 0)
 			(effects
 				(font
@@ -5878,7 +5878,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 214.63 209.55 0)
 			(effects
 				(font
@@ -5967,7 +5967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -5990,7 +5990,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -5999,7 +5999,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -6088,7 +6088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 289.56 209.55 0)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 289.56 209.55 0)
 			(effects
 				(font
@@ -6120,7 +6120,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 289.56 209.55 0)
 			(effects
 				(font
@@ -6209,7 +6209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 326.39 209.55 0)
 			(effects
 				(font
@@ -6232,7 +6232,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 326.39 209.55 0)
 			(effects
 				(font
@@ -6241,7 +6241,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 326.39 209.55 0)
 			(effects
 				(font
@@ -6572,7 +6572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 180.34 250.19 0)
 			(effects
 				(font
@@ -6595,7 +6595,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 180.34 250.19 0)
 			(effects
 				(font
@@ -6604,7 +6604,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 180.34 250.19 0)
 			(effects
 				(font
@@ -6693,7 +6693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 240.03 250.19 0)
 			(effects
 				(font
@@ -6716,7 +6716,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 240.03 250.19 0)
 			(effects
 				(font
@@ -6725,7 +6725,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 240.03 250.19 0)
 			(effects
 				(font
@@ -6814,7 +6814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 363.22 209.55 0)
 			(effects
 				(font
@@ -6837,7 +6837,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 363.22 209.55 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 363.22 209.55 0)
 			(effects
 				(font

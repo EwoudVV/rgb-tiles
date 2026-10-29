@@ -1,0 +1,57 @@
+References,Quantity per tile,Value,Manufacturer,MPN,Footprint,Datasheet
+"C1, C2",2,15p 50V C0G,KEMET,C0603C150J5GACTU,Capacitor_SMD:C_0603_1608Metric,https://search.kemet.com/component-documentation/download/specsheet/C0603C150J5GACTU
+C100,1,1u 100V X7R,KEMET,C1206C105K1RACTU,Capacitor_SMD:C_1206_3216Metric,https://search.kemet.com/component-documentation/download/specsheet/C1206C105K1RACTU
+C101,1,220n 25V X7R,KEMET,C0603C224K3RACTU,Capacitor_SMD:C_0603_1608Metric,https://search.kemet.com/component-documentation/download/specsheet/C0603C224K3RACTU
+C102,1,47u 25V,Panasonic,EEEFT1E470AR,Capacitor_SMD:CP_Elec_5x5.8,https://industrial.panasonic.com/ww/products/pt/aluminum-cap-smd/models/EEEFT1E470AR
+C105,1,100n 50V X7R,KEMET,C0603C104K5RACTU,Capacitor_SMD:C_0603_1608Metric,https://search.kemet.com/component-documentation/download/specsheet/C0603C104K5RACTU
+"C12, C13",2,2.2u 16V X7R,KEMET,C0805C225K4RACTU,Capacitor_SMD:C_0805_2012Metric,https://search.kemet.com/component-documentation/download/specsheet/C0805C225K4RACTU
+C16,1,10u 50V X7R,Samsung Electro-Mechanics,CL32B106KBJNNNE,Capacitor_SMD:C_1210_3225Metric,https://product.samsungsem.com/mlcc/CL32B106KBJNNN.do
+"C17, C18",2,22u 25V X7R,Samsung Electro-Mechanics,CL32B226KAJNNNE,Capacitor_SMD:C_1210_3225Metric,https://product.samsungsem.com/mlcc/CL32B226KAJNNN.do
+"C19, C20",2,4.7u 16V X7R,KEMET,C0805C475K4RACTU,Capacitor_SMD:C_0805_2012Metric,https://search.kemet.com/component-documentation/download/specsheet/C0805C475K4RACTU
+"C3, C4, C5, C6, C7, C8, C9, C10, C11, C14, C103, C104, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C60, C61, C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72, C73, C74, C75, C76, C77, C78, C79, C80, C81, C82, C83, C84, C15, C90, C91, C92, C93, C94, C95",83,100n 25V X7R,Samsung Electro-Mechanics,CL10B104KA8NNNC,Capacitor_SMD:C_0603_1608Metric,https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64",64,WS2812C-V6,Worldsemi,WS2812C-V6,RGB_Tiles:LED_WS2812C-V6_5050_SteppedCourtyard,https://datasheet.lcsc.com/datasheet/pdf/805ce88c7337e0c037059015d64365bd.pdf?productCode=C55109521
+"D65, D66, D67, D68",4,1N4148W-7-F,Diodes Incorporated,1N4148W-7-F,Diode_SMD:D_SOD-123,https://www.diodes.com/datasheet/download/1N4148W.pdf
+D69,1,SMBJ13A,Diodes Incorporated,SMBJ13A-13-F,Diode_SMD:D_SMB,https://www.diodes.com/part/view/SMBJ13A
+D70,1,B340A,Diodes Incorporated,B340A-13-F,Diode_SMD:D_SMA,https://www.diodes.com/datasheet/download/B340A.pdf
+"F1, F2, F3, F4, F5",5,1812L150/24MR,Littelfuse,1812L150/24MR,Fuse:Fuse_1812_4532Metric,https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf
+J1,1,SWD,Samtec,TSW-104-07-T-S,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,https://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf
+J10,1,S POWER LINK,CJT,A2541WV-2P,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.cjt.com/upload/A2541.pdf
+J11,1,W POWER LINK,CJT,A2541WV-2P,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.cjt.com/upload/A2541.pdf
+J2,1,N / M20-8890645R,Harwin,M20-8890645R,RGB_Tiles:Harwin_M20-8890645R_1x06_RA_SMD,https://www.harwin.com/products/M20-8890645R
+J3,1,E / M20-7910642R,Harwin,M20-7910642R,RGB_Tiles:Harwin_M20-7910642R_1x06_RA_SMD,https://www.harwin.com/products/M20-7910642R
+J4,1,S / M20-7910642R,Harwin,M20-7910642R,RGB_Tiles:Harwin_M20-7910642R_1x06_RA_SMD,https://www.harwin.com/products/M20-7910642R
+J5,1,W / M20-8890645R,Harwin,M20-8890645R,RGB_Tiles:Harwin_M20-8890645R_1x06_RA_SMD,https://www.harwin.com/products/M20-8890645R
+J6,1,USB4110-GF-A,GCT,USB4110-GF-A,Connector_USB:USB_C_Receptacle_GCT_USB4110,https://gct.co/download?name=USB4110.pdf&type=PDFDrawing
+J7,1,12V INPUT,Phoenix Contact,1715721,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",https://www.phoenixcontact.com/en-il/products/printed-circuit-board-terminal-mkds-15-2-508-1715721
+J8,1,N POWER LINK,CJT,A2541WV-2P,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.cjt.com/upload/A2541.pdf
+J9,1,E POWER LINK,CJT,A2541WV-2P,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,https://www.cjt.com/upload/A2541.pdf
+L1,1,SRN6045-4R7Y 4.7uH,Bourns,SRN6045-4R7Y,RGB_Tiles:L_Bourns_SRN6045,https://www.bourns.com/docs/product-datasheets/srn6045.pdf
+Q1,1,AO3400A,Alpha & Omega Semiconductor,AO3400A,Package_TO_SOT_SMD:SOT-23,https://www.aosmd.com/sites/default/files/res/datasheets/AO3400A.pdf
+"R1, R3, R11, R14, R17, R20, R22, R35",8,10k,Yageo,RC0603FR-0710KL,Resistor_SMD:R_0603_1608Metric,
+"R10, R13, R16, R19",4,220,Yageo,RC0603FR-07220RL,Resistor_SMD:R_0603_1608Metric,
+"R2, R4",2,1k,Yageo,RC0603FR-071KL,Resistor_SMD:R_0603_1608Metric,
+"R23, R24",2,5.1k,Yageo,RC0603FR-075K1L,Resistor_SMD:R_0603_1608Metric,
+"R25, R26",2,27,Yageo,RC0603FR-0727RL,Resistor_SMD:R_0603_1608Metric,
+"R27, R29",2,100k,Yageo,RC0603FR-07100KL,Resistor_SMD:R_0603_1608Metric,
+R28,1,1M,Yageo,RC0603FR-071ML,Resistor_SMD:R_0603_1608Metric,
+"R31, R32, R33, R34, R30",5,100,Yageo,RC0603FR-07100RL,Resistor_SMD:R_0603_1608Metric,
+R36,1,100k 1%,Yageo,RC0603FR-07100KL,Resistor_SMD:R_0603_1608Metric,
+R37,1,3.32k 1%,Yageo,RC0603FR-073K32L,Resistor_SMD:R_0603_1608Metric,
+R38,1,10k 1%,Yageo,RC0603FR-0710KL,Resistor_SMD:R_0603_1608Metric,
+R39,1,6.04k 1%,Yageo,RC0603FR-076K04L,Resistor_SMD:R_0603_1608Metric,
+R40,1,2.2k,Yageo,RC0603FR-072K2L,Resistor_SMD:R_0603_1608Metric,
+R5,1,27.4k 1%,Yageo,RC0603FR-0727K4L,Resistor_SMD:R_0603_1608Metric,
+R6,1,3.6k 1%,Yageo,RC0603FR-133K6L,Resistor_SMD:R_0603_1608Metric,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L.pdf
+SW1,1,BOOT,E-Switch,TL3342F160QG,Button_Switch_SMD:SW_SPST_TL3342,https://www.e-switch.com/product/tl3342-series-low-profile-smt-tactile-switch/
+SW2,1,RESET,E-Switch,TL3342F160QG,Button_Switch_SMD:SW_SPST_TL3342,https://www.e-switch.com/product/tl3342-series-low-profile-smt-tactile-switch/
+U1,1,RP2040,Raspberry Pi,RP2040,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+U10,1,SN74AHCT1G125DBVR,Texas Instruments,SN74AHCT1G125DBVR,Package_TO_SOT_SMD:SOT-23-5,https://www.ti.com/lit/ds/symlink/sn74ahct1g125.pdf
+"U11, U12, U13, U14",4,TPD2E2U06QDCKRQ1,Texas Instruments,TPD2E2U06QDCKRQ1,Package_TO_SOT_SMD:SOT-323_SC-70,https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf
+U15,1,TPS26600PWPR,Texas Instruments,TPS26600PWPR,RGB_Tiles:HTSSOP16_EP_4.4x5_P0.65_Vias0.3,https://www.ti.com/lit/ds/symlink/tps2660.pdf
+U2,1,W25Q16JVSSIQ,Winbond,W25Q16JVSSIM,Package_SO:SOIC-8_5.3x5.3mm_P1.27mm,https://www.winbond.com/resource-files/w25q16jv%20spi%20revg%2003222018%20plus.pdf
+U3,1,AP63205WU-7,Diodes Incorporated,AP63205WU-7,Package_TO_SOT_SMD:TSOT-23-6,https://www.diodes.com/datasheet/download/AP63200-AP63201-AP63203-AP63205.pdf
+U4,1,AP2112K-3.3TRG1,Diodes Incorporated,AP2112K-3.3TRG1,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/datasheet/download/AP2112.pdf
+"U5, U6, U7, U8",4,SN74LVC2G125DCUR,Texas Instruments,SN74LVC2G125DCUR,Package_SO:VSSOP-8_2.3x2mm_P0.5mm,https://www.ti.com/lit/ds/symlink/sn74lvc2g125.pdf
+U9,1,USBLC6-2SC6,STMicroelectronics,USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+Y1,1,ABM8-272-T3 12MHz,Abracon,ABM8-272-T3,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,https://abracon.com/datasheets/ABM8-272-T3.pdf
+"Shunts for J8, J9, J10, J11",4,2.54mm removable power shunt,Samtec,SNT-100-BK-T,"Accessory, no PCB footprint",https://suddendocs.samtec.com/catalog_english/snt.pdf

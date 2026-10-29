@@ -1,0 +1,22 @@
+; UART programs adapted from raspberrypi/pico-examples.
+; Copyright (c) 2020 Raspberry Pi (Trading) Ltd. BSD-3-Clause.
+.program link_tx
+.side_set 1 opt
+    pull side 1 [7]
+    set x, 7 side 0 [7]
+tx_bit:
+    out pins, 1
+    jmp x-- tx_bit [6]
+
+.program link_rx
+rx_start:
+    wait 0 pin 0
+    set x, 7 [10]
+rx_bit:
+    in pins, 1
+    jmp x-- rx_bit [6]
+    jmp pin rx_stop
+    wait 1 pin 0
+    jmp rx_start
+rx_stop:
+    push

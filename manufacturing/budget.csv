@@ -1,0 +1,11 @@
+Item,USD,Basis
+LCSC parts,17.90,"Live cart, one populated tile with minimum order quantities"
+LCSC shipping,9.05,"Global Direct Standard Line, USA 01776"
+Mouser parts and wire,23.56,Live cart; all parts in stock
+Mouser shipping,8.49,UPS Ground
+Mouser estimated tariff,4.08,Live cart estimate
+JLCPCB five bare boards,16.85,"Uploaded Gerbers, four layers, 99.5 x 99.5 mm, lead-free HASL, TG155"
+JLCPCB shipping,9.20,"Global Standard Direct Line, USA, 8-10 business days; verified after sign-in"
+Sales tax reserve,6.00,"Allowance, final checkout tax not yet calculated"
+Total planned,95.13,One populated tile and four spare bare boards; existing 12 V PSU excluded
+Remaining allowance,4.87,Against 100 USD budget

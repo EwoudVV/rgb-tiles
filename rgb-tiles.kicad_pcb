@@ -581,7 +581,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -615,7 +615,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -627,7 +627,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1157,7 +1157,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -1191,7 +1191,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1203,7 +1203,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2244,7 +2244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2278,7 +2278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2290,7 +2290,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2820,7 +2820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2854,7 +2854,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2866,7 +2866,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2994,7 +2994,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3028,7 +3028,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3040,7 +3040,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3570,7 +3570,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3604,7 +3604,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4146,7 +4146,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -4180,7 +4180,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4192,7 +4192,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4320,7 +4320,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4354,7 +4354,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4366,7 +4366,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5700,7 +5700,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -5734,7 +5734,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5746,7 +5746,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5874,7 +5874,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5908,7 +5908,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5920,7 +5920,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6048,7 +6048,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6082,7 +6082,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6094,7 +6094,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6222,7 +6222,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6256,7 +6256,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6268,7 +6268,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6798,7 +6798,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6832,7 +6832,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6844,7 +6844,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7483,7 +7483,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -7517,7 +7517,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7529,7 +7529,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7657,7 +7657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -7691,7 +7691,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7703,7 +7703,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8635,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8669,7 +8669,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8681,7 +8681,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9211,7 +9211,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9245,7 +9245,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9257,7 +9257,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9385,7 +9385,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9419,7 +9419,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9431,7 +9431,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9961,7 +9961,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9995,7 +9995,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -10007,7 +10007,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12145,7 +12145,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -12179,7 +12179,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12191,7 +12191,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12319,7 +12319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -12353,7 +12353,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12365,7 +12365,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12493,7 +12493,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12527,7 +12527,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -12539,7 +12539,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14275,7 +14275,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -14309,7 +14309,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -14321,7 +14321,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -15655,7 +15655,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15689,7 +15689,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -15701,7 +15701,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -15829,7 +15829,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -15863,7 +15863,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -15875,7 +15875,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16916,7 +16916,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16950,7 +16950,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16962,7 +16962,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18003,7 +18003,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18037,7 +18037,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18049,7 +18049,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18579,7 +18579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -18613,7 +18613,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18625,7 +18625,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18753,7 +18753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18787,7 +18787,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18799,7 +18799,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19732,7 +19732,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -19766,7 +19766,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19778,7 +19778,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19906,7 +19906,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -19940,7 +19940,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -19952,7 +19952,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20482,7 +20482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20516,7 +20516,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -20528,7 +20528,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -21460,7 +21460,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21494,7 +21494,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -21506,7 +21506,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22036,7 +22036,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -22070,7 +22070,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22082,7 +22082,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22612,7 +22612,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22646,7 +22646,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22658,7 +22658,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22786,7 +22786,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22820,7 +22820,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22832,7 +22832,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -22960,7 +22960,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22994,7 +22994,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23006,7 +23006,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23536,7 +23536,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -23570,7 +23570,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -23582,7 +23582,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -24112,7 +24112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -24146,7 +24146,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -24158,7 +24158,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25090,7 +25090,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -25124,7 +25124,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25136,7 +25136,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25264,7 +25264,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25298,7 +25298,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25310,7 +25310,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27046,7 +27046,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -27080,7 +27080,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27092,7 +27092,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27220,7 +27220,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27254,7 +27254,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27266,7 +27266,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27394,7 +27394,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27428,7 +27428,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -27440,7 +27440,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28372,7 +28372,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28406,7 +28406,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28418,7 +28418,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28546,7 +28546,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28580,7 +28580,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28592,7 +28592,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28720,7 +28720,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28754,7 +28754,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28766,7 +28766,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28894,7 +28894,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28928,7 +28928,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -28940,7 +28940,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29068,7 +29068,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29102,7 +29102,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29114,7 +29114,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29242,7 +29242,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -29276,7 +29276,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29288,7 +29288,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29416,7 +29416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29450,7 +29450,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -29462,7 +29462,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -30394,7 +30394,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30428,7 +30428,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -30440,7 +30440,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31774,7 +31774,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -31808,7 +31808,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31820,7 +31820,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31948,7 +31948,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31982,7 +31982,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -31994,7 +31994,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -32524,7 +32524,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -32558,7 +32558,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -32570,7 +32570,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -33502,7 +33502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -33536,7 +33536,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -33548,7 +33548,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -33676,7 +33676,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33710,7 +33710,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -33722,7 +33722,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34252,7 +34252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -34286,7 +34286,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34298,7 +34298,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34426,7 +34426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34460,7 +34460,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -34472,7 +34472,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35404,7 +35404,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -35438,7 +35438,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 270)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35450,7 +35450,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 270)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35578,7 +35578,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35612,7 +35612,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35624,7 +35624,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35752,7 +35752,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35786,7 +35786,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35798,7 +35798,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35926,7 +35926,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -35960,7 +35960,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -35972,7 +35972,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -36502,7 +36502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -36536,7 +36536,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -36548,7 +36548,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37480,7 +37480,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -37514,7 +37514,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37526,7 +37526,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37654,7 +37654,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37688,7 +37688,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37700,7 +37700,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -37830,7 +37830,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -37867,7 +37867,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -37880,7 +37880,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -38991,7 +38991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TL3342F160QG/TR"
+		(property "MPN" "TL3342F160QG"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -42139,7 +42139,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "W25Q16JVSSIQ"
+		(property "MPN" "W25Q16JVSSIM"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -42690,7 +42690,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -42727,7 +42727,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -42740,7 +42740,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -43444,7 +43444,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C226K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B226KAJNNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -43481,7 +43481,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -43494,7 +43494,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" "CL32B226KAJNNNE"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -43821,7 +43821,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TPD2E2U06DCKR"
+		(property "Value" "TPD2E2U06QDCKRQ1"
 			(at 0 -1.8 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -43834,7 +43834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -43884,7 +43884,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TPD2E2U06DCKR"
+		(property "MPN" "TPD2E2U06QDCKRQ1"
 			(at 0 0 180)
 			(layer "B.SilkS")
 			(hide yes)
@@ -45466,7 +45466,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -45503,7 +45503,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -45516,7 +45516,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -47415,7 +47415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -47452,7 +47452,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -47465,7 +47465,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -48666,7 +48666,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -48703,7 +48703,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -48716,7 +48716,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -48848,7 +48848,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -48885,7 +48885,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -48898,7 +48898,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -49536,7 +49536,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TPD2E2U06DCKR"
+		(property "Value" "TPD2E2U06QDCKRQ1"
 			(at 0 -1.8 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -49549,7 +49549,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -49599,7 +49599,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TPD2E2U06DCKR"
+		(property "MPN" "TPD2E2U06QDCKRQ1"
 			(at 0 0 270)
 			(layer "B.SilkS")
 			(hide yes)
@@ -51319,7 +51319,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C106K5RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B106KBJNNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -51356,7 +51356,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -51369,7 +51369,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1210C106K5RACTU"
+		(property "MPN" "CL32B106KBJNNNE"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -51709,7 +51709,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -51746,7 +51746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -51759,7 +51759,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -52043,7 +52043,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52080,7 +52080,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -52093,7 +52093,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -52225,7 +52225,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52262,7 +52262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -52275,7 +52275,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -52394,7 +52394,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SS34"
+		(property "Value" "B340A"
 			(at 0 -2.6 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -52407,7 +52407,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/part/view/SS34"
+		(property "Datasheet" "https://www.diodes.com/datasheet/download/B340A.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -52448,7 +52448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "SS34-13-F"
+		(property "MPN" "B340A-13-F"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -53475,7 +53475,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -53512,7 +53512,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -53525,7 +53525,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -54534,7 +54534,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/upload/A2541.pdf"
+		(property "Datasheet" "https://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -54571,7 +54571,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "CJT"
+		(property "Manufacturer" "Samtec"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -54584,7 +54584,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "A2541WV-4P"
+		(property "MPN" "TSW-104-07-T-S"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -54815,7 +54815,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -54852,7 +54852,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 180)
 			(layer "B.SilkS")
 			(hide yes)
@@ -54865,7 +54865,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 180)
 			(layer "B.SilkS")
 			(hide yes)
@@ -55567,7 +55567,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C226K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B226KAJNNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -55604,7 +55604,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -55617,7 +55617,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" "CL32B226KAJNNNE"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -55749,7 +55749,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -55786,7 +55786,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -55799,7 +55799,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -56787,7 +56787,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TL3342F160QG/TR"
+		(property "MPN" "TL3342F160QG"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -57522,7 +57522,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -57559,7 +57559,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -57572,7 +57572,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -58526,7 +58526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -58576,7 +58576,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0603FR-073K6L"
+		(property "MPN" "RC0603FR-133K6L"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -58734,7 +58734,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -58771,7 +58771,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -58784,7 +58784,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -60637,7 +60637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -60674,7 +60674,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -60687,7 +60687,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -60819,7 +60819,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -60856,7 +60856,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 270)
 			(layer "B.SilkS")
 			(hide yes)
@@ -60869,7 +60869,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 270)
 			(layer "B.SilkS")
 			(hide yes)
@@ -62588,7 +62588,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -62625,7 +62625,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -62638,7 +62638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -63173,7 +63173,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TPD2E2U06DCKR"
+		(property "Value" "TPD2E2U06QDCKRQ1"
 			(at 0 -1.8 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63186,7 +63186,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -63236,7 +63236,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TPD2E2U06DCKR"
+		(property "MPN" "TPD2E2U06QDCKRQ1"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -64544,7 +64544,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TPD2E2U06DCKR"
+		(property "Value" "TPD2E2U06QDCKRQ1"
 			(at 0 -1.8 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64557,7 +64557,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e2u06-q1.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -64607,7 +64607,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "TPD2E2U06DCKR"
+		(property "MPN" "TPD2E2U06QDCKRQ1"
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -68474,7 +68474,7 @@
 	(via
 		(at 68.45 99.75)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "002be332-57d3-445c-bf4f-4af4f9100b54")
@@ -68514,7 +68514,7 @@
 	(via
 		(at 99.75 68.45)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "0c5c01fc-29e1-4305-9806-6bd64f6eb579")
@@ -68626,7 +68626,7 @@
 	(via
 		(at 64 141)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "20f6b5c0-6303-4d8b-ad66-6bac30acfdfb")
@@ -68666,7 +68666,7 @@
 	(via
 		(at 101 69.5)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "2dc7da9a-11a6-44cf-84b3-74728820dc38")
@@ -68722,7 +68722,7 @@
 	(via
 		(at 84.759862 123.925)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "437d3eb6-6cc7-4b76-adfd-6b2e12090d6f")
@@ -68810,7 +68810,7 @@
 	(via
 		(at 126.25 129.5)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "5a8755c5-3320-4c25-9a95-c517ac53db63")
@@ -69074,7 +69074,7 @@
 	(via
 		(at 121.2 127.2)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "98a575d7-bc87-4497-b316-68596b88b037")
@@ -69098,7 +69098,7 @@
 	(via
 		(at 99.75 117.14)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "9a88c96a-0701-4b60-b708-f2d0c6300b1f")
@@ -69122,7 +69122,7 @@
 	(via
 		(at 87.056292 143.130949)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "9c911e7f-2381-4acb-a568-2ef22b0ae3a2")
@@ -69218,7 +69218,7 @@
 	(via
 		(at 124.8 128.8)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "ac0aea33-e690-46de-ae80-2c374b203321")
@@ -69306,7 +69306,7 @@
 	(via
 		(at 125.14 99.75)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "c651c9ff-86b9-4971-b38f-d0c4db1a090b")
@@ -69314,7 +69314,7 @@
 	(via
 		(at 58.994199 95.301574)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "c6f4a221-2115-4bd5-8c42-5e45706b331b")
@@ -69354,7 +69354,7 @@
 	(via
 		(at 76.25 116.25)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "cc786a6c-3f0e-47c7-8427-357a8f1bf682")
@@ -69426,7 +69426,7 @@
 	(via
 		(at 92.852871 133.0423)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "GND")
 		(uuid "e9803797-d58e-407a-9405-89ab33267da8")
@@ -74466,7 +74466,7 @@
 	(via
 		(at 102.6 68.25)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "N_RX")
 		(uuid "af4a2281-40e1-4242-9b2b-2f3b6ecd2489")
@@ -74714,7 +74714,7 @@
 	(via
 		(at 79.925 119.675)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "RUN")
 		(uuid "b5f4ee9e-4d07-4a1c-a21e-b2a4e75fc132")
@@ -76770,7 +76770,7 @@
 	(via
 		(at 80.6 120.35)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "SWDIO")
 		(uuid "64180ed9-1733-48fb-b124-f44814534ef9")
@@ -76826,7 +76826,7 @@
 	(via
 		(at 79.5 118.9)
 		(size 0.5)
-		(drill 0.2)
+		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net "LED_DATA_3V3")
 		(uuid "a40d1355-8996-4741-a61f-c62b195490fd")
@@ -95787,7 +95787,7 @@
 				(xy 100.203486 68.264413) (xy 100.236809 68.315725) (xy 100.246129 68.350505) (xy 100.250278 68.365988)
 				(xy 100.25028 68.365992) (xy 100.274816 68.408489) (xy 100.28984 68.434511) (xy 100.345789 68.49046)
 				(xy 100.355541 68.49609) (xy 100.355542 68.496092) (xy 100.358167 68.497607) (xy 100.36893 68.504798)
-				(xy 100.379141 68.512633) (xy 100.388868 68.521164) (xy 100.418202 68.550497) (xy 100.418203 68.550497)
+				(xy 100.379141 68.512633) (xy 100.388868 68.521164) (xy 100.418205 68.5505) (xy 100.418206 68.5505)
 				(xy 100.446921 68.579215) (xy 100.54542 68.622707) (xy 100.569495 68.6255) (xy 101.730504 68.625499)
 				(xy 101.75458 68.622707) (xy 101.830719 68.589087) (xy 101.834782 68.588673) (xy 101.852646 68.579572)
 				(xy 101.857605 68.577216) (xy 101.860411 68.575977) (xy 101.862768 68.574414) (xy 101.885765 68.562698)
@@ -95817,73 +95817,74 @@
 				(xy 102.482353 69.787022) (xy 102.487362 69.783928) (xy 102.488661 69.783177) (xy 102.494019 69.776194)
 				(xy 102.578 69.692214) (xy 102.60549 69.6446) (xy 102.64389 69.57809) (xy 102.64389 69.578088) (xy 102.643892 69.578086)
 				(xy 102.678 69.450792) (xy 102.678 69.403658) (xy 102.682844 69.373069) (xy 102.688862 69.354546)
-				(xy 102.690391 69.349838) (xy 102.71454 69.310429) (xy 103.44046 68.584511) (xy 103.460096 68.5505)
-				(xy 103.480021 68.515989) (xy 103.5005 68.439562) (xy 103.5005 67.560438) (xy 103.480021 67.484011)
-				(xy 103.44046 67.415489) (xy 103.384511 67.35954) (xy 103.384508 67.359538) (xy 103.384504 67.359535)
-				(xy 103.3845 67.359533) (xy 103.315994 67.319981) (xy 103.315993 67.31998) (xy 103.315992 67.31998)
-				(xy 103.315988 67.319978) (xy 103.299829 67.315648) (xy 103.239566 67.2995) (xy 103.239564 67.2995)
-				(xy 103.239562 67.2995) (xy 102.360438 67.2995) (xy 102.360435 67.2995) (xy 102.313386 67.312107)
-				(xy 102.284011 67.319978) (xy 102.284009 67.319979) (xy 102.257821 67.3351) (xy 102.25782 67.3351)
-				(xy 102.248625 67.340409) (xy 102.248622 67.340411) (xy 102.215504 67.35953) (xy 102.215483 67.359544)
-				(xy 102.165608 67.409418) (xy 102.14055 67.427623) (xy 102.125151 67.435469) (xy 102.064719 67.44504)
-				(xy 102.04963 67.441419) (xy 102.046917 67.440538) (xy 101.997411 67.404582) (xy 101.997403 67.404571)
-				(xy 101.994408 67.400449) (xy 101.975499 67.342261) (xy 101.975499 67.119499) (xy 101.975499 67.119496)
-				(xy 101.972707 67.09542) (xy 101.929215 66.996921) (xy 101.853079 66.920785) (xy 101.853077 66.920784)
-				(xy 101.754599 66.877301) (xy 101.754589 66.877297) (xy 101.75458 66.877293) (xy 101.754577 66.877292)
-				(xy 101.754572 66.87729) (xy 101.751415 66.876778) (xy 101.748895 66.876633) (xy 101.730508 66.8745)
-				(xy 101.730505 66.8745) (xy 100.569127 66.8745) (xy 100.567251 66.874761) (xy 100.545416 66.877293)
-				(xy 100.446923 66.920782) (xy 100.446922 66.920783) (xy 100.446915 66.920788) (xy 100.428236 66.939467)
-				(xy 100.41324 66.951774) (xy 100.396991 66.962632) (xy 100.385773 66.969109) (xy 100.38401 66.969978)
-				(xy 100.315488 67.009539) (xy 100.11561 67.209416) (xy 100.090554 67.22762) (xy 100.068794 67.238708)
-				(xy 100.023847 67.2495) (xy 99.934108 67.2495) (xy 99.901332 67.258282) (xy 99.838806 67.275035)
-				(xy 99.807996 67.278271) (xy 99.803389 67.27803) (xy 99.79662 67.277675) (xy 99.7395 67.255744)
-				(xy 99.706182 67.204432) (xy 99.703817 67.195605) (xy 99.701214 67.169133) (xy 99.7005 67.169133)
-				(xy 99.7005 67.03411) (xy 99.7005 67.034108) (xy 99.696972 67.02094) (xy 99.666392 66.906813) (xy 99.66639 66.90681)
-				(xy 99.66639 66.906808) (xy 99.666388 66.906805) (xy 99.666298 66.906468) (xy 99.664812 66.904075)
-				(xy 99.601971 66.795232) (xy 99.600794 66.793044) (xy 99.600605 66.79279) (xy 99.542101 66.734285)
-				(xy 99.523898 66.70923) (xy 99.518931 66.699482) (xy 99.509362 66.639054) (xy 99.537141 66.584538)
-				(xy 99.584044 66.558276) (xy 99.589641 66.556933) (xy 99.61274 66.5542) (xy 101.026293 66.5542)
-				(xy 101.038185 66.547333) (xy 101.088989 66.533721) (xy 101.157511 66.49416) (xy 101.21346 66.438211)
-				(xy 103.644411 64.007257) (xy 103.669469 63.989053) (xy 103.679217 63.984086) (xy 103.73965 63.97452)
-				(xy 103.794164 64.002301) (xy 103.820421 64.049189) (xy 103.829415 64.086654) (xy 103.829929 64.087324)
-				(xy 103.832222 64.094712) (xy 103.85861 64.193194) (xy 103.924494 64.307307) (xy 103.924496 64.307309)
-				(xy 103.924498 64.307311) (xy 103.9245 64.307314) (xy 104.017686 64.4005) (xy 104.017688 64.400501)
-				(xy 104.017795 64.400608) (xy 104.018046 64.400794) (xy 104.020239 64.401975) (xy 104.064207 64.427359)
-				(xy 104.07504 64.433614) (xy 104.096634 64.457596) (xy 104.130944 64.466174) (xy 104.132548 64.466588)
-				(xy 104.259108 64.5005) (xy 104.25911 64.5005) (xy 104.39089 64.5005) (xy 104.390892 64.5005) (xy 104.518186 64.466392)
-				(xy 104.518188 64.46639) (xy 104.51819 64.46639) (xy 104.626179 64.404042) (xy 104.629067 64.402639)
-				(xy 104.629853 64.402122) (xy 104.634862 64.399028) (xy 104.636161 64.398277) (xy 104.641519 64.391294)
-				(xy 104.7255 64.307314) (xy 104.725504 64.307307) (xy 104.79139 64.19319) (xy 104.79139 64.193188)
-				(xy 104.791392 64.193186) (xy 104.8255 64.065892) (xy 104.8255 63.934108) (xy 104.79492 63.819983)
-				(xy 104.791854 63.802136) (xy 104.790186 63.78096) (xy 104.804465 63.721464) (xy 104.847425 63.683284)
-				(xy 104.855961 63.679348) (xy 104.881912 63.671476) (xy 104.950304 63.660646) (xy 105.063342 63.60305)
-				(xy 105.15305 63.513342) (xy 105.210646 63.400304) (xy 105.2255 63.306519) (xy 105.225499 62.693482)
-				(xy 105.225499 62.693269) (xy 105.225288 62.691768) (xy 105.2252 62.691058) (xy 105.224819 62.689185)
-				(xy 105.211865 62.607388) (xy 105.211559 62.603506) (xy 105.211556 62.603492) (xy 105.2109 62.600195)
-				(xy 105.207687 62.59389) (xy 105.15305 62.486658) (xy 105.063342 62.39695) (xy 105.009243 62.369385)
-				(xy 104.984652 62.344793) (xy 104.856525 62.3245) (xy 104.856522 62.3245) (xy 104.393479 62.3245)
-				(xy 104.393473 62.3245) (xy 104.393424 62.324508) (xy 104.393061 62.324566) (xy 104.2997 62.339352)
-				(xy 104.299676 62.339362) (xy 104.186661 62.396947) (xy 104.096948 62.48666) (xy 104.039354 62.599693)
-				(xy 104.0245 62.693476) (xy 104.0245 62.720539) (xy 104.019654 62.751132) (xy 104.012107 62.774359)
-				(xy 103.987957 62.81377) (xy 103.755589 63.046138) (xy 103.730528 63.064345) (xy 103.720785 63.069309)
-				(xy 103.660353 63.078879) (xy 103.605837 63.0511) (xy 103.579576 63.004205) (xy 103.578233 62.99861)
-				(xy 103.575499 62.975503) (xy 103.575499 62.692764) (xy 103.574917 62.689807) (xy 103.561865 62.607389)
-				(xy 103.561559 62.603505) (xy 103.561556 62.603492) (xy 103.5609 62.600195) (xy 103.557687 62.59389)
-				(xy 103.50305 62.486658) (xy 103.413342 62.39695) (xy 103.413339 62.396948) (xy 103.413338 62.396947)
-				(xy 103.411078 62.395795) (xy 103.411075 62.395795) (xy 103.343524 62.361375) (xy 103.318464 62.343167)
-				(xy 103.306031 62.330733) (xy 103.279772 62.28384) (xy 103.278235 62.277437) (xy 103.2755 62.254329)
-				(xy 103.2755 61.647936) (xy 103.273723 61.640409) (xy 103.272903 61.63825) (xy 103.271799 61.634131)
-				(xy 103.260371 61.591478) (xy 103.255022 61.571514) (xy 103.255021 61.571513) (xy 103.255021 61.571511)
-				(xy 103.253806 61.569407) (xy 103.253802 61.569399) (xy 103.21546 61.502989) (xy 103.195959 61.483488)
-				(xy 103.159511 61.447039) (xy 103.112736 61.400264) (xy 103.112736 61.400265) (xy 101.33577 59.623299)
-				(xy 101.317564 59.598239) (xy 101.315526 59.59424) (xy 101.307594 59.578672) (xy 101.297652 59.520806)
-				(xy 101.3005 59.499179) (xy 101.300499 59.200822) (xy 101.295316 59.161452) (xy 101.294516 59.145525)
-				(xy 101.295595 59.110189) (xy 101.298921 59.087594) (xy 101.30002 59.08349) (xy 101.300022 59.083488)
-				(xy 101.3205 59.007062) (xy 101.3205 58.927938) (xy 101.3205 56.76518) (xy 101.325343 56.734594)
-				(xy 101.329465 56.721905) (xy 101.365423 56.672406) (xy 101.366022 56.671971) (xy 101.369563 56.6694)
-				(xy 101.427743 56.6505) (xy 101.549747 56.6505) (xy 101.549748 56.6505) (xy 101.608231 56.638867)
-				(xy 101.674552 56.594552) (xy 101.718867 56.528231) (xy 101.7305 56.469748) (xy 101.7305 55.040001)
-				(xy 102.85 55.040001) (xy 102.85 55.040002) (xy 102.85 56.469704) (xy 102.861591 56.527978) (xy 102.861603 56.528036)
+				(xy 102.690391 69.349838) (xy 102.71454 69.310429) (xy 103.44046 68.584511) (xy 103.463301 68.544948)
+				(xy 103.471662 68.530468) (xy 103.475841 68.523229) (xy 103.480021 68.515989) (xy 103.5005 68.439562)
+				(xy 103.5005 67.560438) (xy 103.480021 67.484011) (xy 103.44046 67.415489) (xy 103.384511 67.35954)
+				(xy 103.384508 67.359538) (xy 103.384504 67.359535) (xy 103.3845 67.359533) (xy 103.315994 67.319981)
+				(xy 103.315993 67.31998) (xy 103.315992 67.31998) (xy 103.315988 67.319978) (xy 103.299829 67.315648)
+				(xy 103.239566 67.2995) (xy 103.239564 67.2995) (xy 103.239562 67.2995) (xy 102.360438 67.2995)
+				(xy 102.360435 67.2995) (xy 102.313386 67.312107) (xy 102.284011 67.319978) (xy 102.284009 67.319979)
+				(xy 102.257821 67.3351) (xy 102.25782 67.3351) (xy 102.248625 67.340409) (xy 102.248622 67.340411)
+				(xy 102.215504 67.35953) (xy 102.215483 67.359544) (xy 102.165608 67.409418) (xy 102.14055 67.427623)
+				(xy 102.125151 67.435469) (xy 102.064719 67.44504) (xy 102.04963 67.441419) (xy 102.046917 67.440538)
+				(xy 101.997411 67.404582) (xy 101.997403 67.404571) (xy 101.994408 67.400449) (xy 101.975499 67.342261)
+				(xy 101.975499 67.119499) (xy 101.975499 67.119496) (xy 101.972707 67.09542) (xy 101.929215 66.996921)
+				(xy 101.853079 66.920785) (xy 101.853077 66.920784) (xy 101.754599 66.877301) (xy 101.754589 66.877297)
+				(xy 101.75458 66.877293) (xy 101.754577 66.877292) (xy 101.754572 66.87729) (xy 101.751415 66.876778)
+				(xy 101.748895 66.876633) (xy 101.730508 66.8745) (xy 101.730505 66.8745) (xy 100.569127 66.8745)
+				(xy 100.567251 66.874761) (xy 100.545416 66.877293) (xy 100.446923 66.920782) (xy 100.446922 66.920783)
+				(xy 100.446915 66.920788) (xy 100.428236 66.939467) (xy 100.41324 66.951774) (xy 100.396991 66.962632)
+				(xy 100.385773 66.969109) (xy 100.38401 66.969978) (xy 100.315488 67.009539) (xy 100.11561 67.209416)
+				(xy 100.090554 67.22762) (xy 100.068794 67.238708) (xy 100.023847 67.2495) (xy 99.934108 67.2495)
+				(xy 99.901332 67.258282) (xy 99.838806 67.275035) (xy 99.807996 67.278271) (xy 99.803389 67.27803)
+				(xy 99.79662 67.277675) (xy 99.7395 67.255744) (xy 99.706182 67.204432) (xy 99.703817 67.195605)
+				(xy 99.701214 67.169133) (xy 99.7005 67.169133) (xy 99.7005 67.03411) (xy 99.7005 67.034108) (xy 99.696972 67.02094)
+				(xy 99.666392 66.906813) (xy 99.66639 66.90681) (xy 99.66639 66.906808) (xy 99.666388 66.906805)
+				(xy 99.666298 66.906468) (xy 99.664812 66.904075) (xy 99.601971 66.795232) (xy 99.600794 66.793044)
+				(xy 99.600605 66.79279) (xy 99.542101 66.734285) (xy 99.523898 66.70923) (xy 99.518931 66.699482)
+				(xy 99.509362 66.639054) (xy 99.537141 66.584538) (xy 99.584044 66.558276) (xy 99.589641 66.556933)
+				(xy 99.61274 66.5542) (xy 101.026293 66.5542) (xy 101.038185 66.547333) (xy 101.088989 66.533721)
+				(xy 101.157511 66.49416) (xy 101.21346 66.438211) (xy 103.644411 64.007257) (xy 103.669469 63.989053)
+				(xy 103.679217 63.984086) (xy 103.73965 63.97452) (xy 103.794164 64.002301) (xy 103.820421 64.049189)
+				(xy 103.829415 64.086654) (xy 103.829929 64.087324) (xy 103.832222 64.094712) (xy 103.85861 64.193194)
+				(xy 103.924494 64.307307) (xy 103.924496 64.307309) (xy 103.924498 64.307311) (xy 103.9245 64.307314)
+				(xy 104.017686 64.4005) (xy 104.017688 64.400501) (xy 104.017795 64.400608) (xy 104.018046 64.400794)
+				(xy 104.020239 64.401975) (xy 104.064207 64.427359) (xy 104.07504 64.433614) (xy 104.096634 64.457596)
+				(xy 104.130944 64.466174) (xy 104.132548 64.466588) (xy 104.259108 64.5005) (xy 104.25911 64.5005)
+				(xy 104.39089 64.5005) (xy 104.390892 64.5005) (xy 104.518186 64.466392) (xy 104.518188 64.46639)
+				(xy 104.51819 64.46639) (xy 104.626179 64.404042) (xy 104.629067 64.402639) (xy 104.629853 64.402122)
+				(xy 104.634862 64.399028) (xy 104.636161 64.398277) (xy 104.641519 64.391294) (xy 104.7255 64.307314)
+				(xy 104.725504 64.307307) (xy 104.79139 64.19319) (xy 104.79139 64.193188) (xy 104.791392 64.193186)
+				(xy 104.8255 64.065892) (xy 104.8255 63.934108) (xy 104.79492 63.819983) (xy 104.791854 63.802136)
+				(xy 104.790186 63.78096) (xy 104.804465 63.721464) (xy 104.847425 63.683284) (xy 104.855961 63.679348)
+				(xy 104.881912 63.671476) (xy 104.950304 63.660646) (xy 105.063342 63.60305) (xy 105.15305 63.513342)
+				(xy 105.210646 63.400304) (xy 105.2255 63.306519) (xy 105.225499 62.693482) (xy 105.225499 62.693269)
+				(xy 105.225288 62.691768) (xy 105.2252 62.691058) (xy 105.224819 62.689185) (xy 105.211865 62.607388)
+				(xy 105.211559 62.603506) (xy 105.211556 62.603492) (xy 105.2109 62.600195) (xy 105.207687 62.59389)
+				(xy 105.15305 62.486658) (xy 105.063342 62.39695) (xy 105.009243 62.369385) (xy 104.984652 62.344793)
+				(xy 104.856525 62.3245) (xy 104.856522 62.3245) (xy 104.393479 62.3245) (xy 104.393473 62.3245)
+				(xy 104.393424 62.324508) (xy 104.393061 62.324566) (xy 104.2997 62.339352) (xy 104.299676 62.339362)
+				(xy 104.186661 62.396947) (xy 104.096948 62.48666) (xy 104.039354 62.599693) (xy 104.0245 62.693476)
+				(xy 104.0245 62.720539) (xy 104.019654 62.751132) (xy 104.012107 62.774359) (xy 103.987957 62.81377)
+				(xy 103.755589 63.046138) (xy 103.730528 63.064345) (xy 103.720785 63.069309) (xy 103.660353 63.078879)
+				(xy 103.605837 63.0511) (xy 103.579576 63.004205) (xy 103.578233 62.99861) (xy 103.575499 62.975503)
+				(xy 103.575499 62.692764) (xy 103.574917 62.689807) (xy 103.561865 62.607389) (xy 103.561559 62.603505)
+				(xy 103.561556 62.603492) (xy 103.5609 62.600195) (xy 103.557687 62.59389) (xy 103.50305 62.486658)
+				(xy 103.413342 62.39695) (xy 103.413339 62.396948) (xy 103.413338 62.396947) (xy 103.411078 62.395795)
+				(xy 103.411075 62.395795) (xy 103.343524 62.361375) (xy 103.318464 62.343167) (xy 103.306031 62.330733)
+				(xy 103.279772 62.28384) (xy 103.278235 62.277437) (xy 103.2755 62.254329) (xy 103.2755 61.647936)
+				(xy 103.273723 61.640409) (xy 103.272903 61.63825) (xy 103.271799 61.634131) (xy 103.260371 61.591478)
+				(xy 103.255022 61.571514) (xy 103.255021 61.571513) (xy 103.255021 61.571511) (xy 103.253806 61.569407)
+				(xy 103.253802 61.569399) (xy 103.21546 61.502989) (xy 103.195959 61.483488) (xy 103.159511 61.447039)
+				(xy 103.112736 61.400264) (xy 103.112736 61.400265) (xy 101.33577 59.623299) (xy 101.317564 59.598239)
+				(xy 101.315526 59.59424) (xy 101.307594 59.578672) (xy 101.297652 59.520806) (xy 101.3005 59.499179)
+				(xy 101.300499 59.200822) (xy 101.295316 59.161452) (xy 101.294516 59.145525) (xy 101.295595 59.110189)
+				(xy 101.298921 59.087594) (xy 101.30002 59.08349) (xy 101.300022 59.083488) (xy 101.3205 59.007062)
+				(xy 101.3205 58.927938) (xy 101.3205 56.76518) (xy 101.325343 56.734594) (xy 101.329465 56.721905)
+				(xy 101.365423 56.672406) (xy 101.366022 56.671971) (xy 101.369563 56.6694) (xy 101.427743 56.6505)
+				(xy 101.549747 56.6505) (xy 101.549748 56.6505) (xy 101.608231 56.638867) (xy 101.674552 56.594552)
+				(xy 101.718867 56.528231) (xy 101.7305 56.469748) (xy 101.7305 55.040001) (xy 102.85 55.040001)
+				(xy 102.85 55.040002) (xy 102.85 56.469704) (xy 102.861591 56.527978) (xy 102.861603 56.528036)
 				(xy 102.905806 56.594189) (xy 102.90581 56.594193) (xy 102.971963 56.638396) (xy 103.027958 56.649533)
 				(xy 103.029711 56.649926) (xy 103.030297 56.649998) (xy 103.030299 56.649999) (xy 103.030303 56.65)
 				(xy 103.384998 56.65) (xy 103.384999 56.65) (xy 103.385 56.649999) (xy 103.385 55.040001) (xy 103.735 55.040001)
@@ -99859,7 +99860,7 @@
 				(xy 50.5005 97.434108) (xy 63.6995 97.434108) (xy 63.6995 97.565892) (xy 63.715204 97.6245) (xy 63.733609 97.69319)
 				(xy 63.73361 97.693192) (xy 63.733611 97.693195) (xy 63.799495 97.807309) (xy 63.859418 97.867233)
 				(xy 63.877623 97.89229) (xy 63.888709 97.914047) (xy 63.8995 97.958993) (xy 63.8995 100.039564)
-				(xy 63.904017 100.05642) (xy 63.919977 100.115987) (xy 63.919979 100.11599) (xy 63.951045 100.169798)
+				(xy 63.904121 100.056809) (xy 63.919977 100.115987) (xy 63.919979 100.11599) (xy 63.951045 100.169798)
 				(xy 63.951802 100.171109) (xy 63.951812 100.171126) (xy 63.951812 100.171129) (xy 63.959539 100.18451)
 				(xy 65.859418 102.084389) (xy 65.877623 102.109447) (xy 65.888709 102.131204) (xy 65.8995 102.17615)
 				(xy 65.8995 102.265892) (xy 65.901863 102.27471) (xy 65.901864 102.274714) (xy 65.93361 102.393194)
@@ -99895,7 +99896,7 @@
 				(xy 67.802418 99.847995) (xy 67.833693 99.816719) (xy 67.858747 99.798516) (xy 67.8689 99.793343)
 				(xy 67.929331 99.783773) (xy 67.983847 99.81155) (xy 67.987292 99.814995) (xy 68.012913 99.85937)
 				(xy 68.017242 99.875522) (xy 68.017242 99.875529) (xy 68.017244 99.875529) (xy 68.030201 99.923888)
-				(xy 68.030203 99.923892) (xy 68.071398 99.995244) (xy 68.089507 100.026608) (xy 68.089509 100.02661)
+				(xy 68.030203 99.923892) (xy 68.083374 100.015987) (xy 68.089507 100.026608) (xy 68.089509 100.02661)
 				(xy 68.089511 100.026613) (xy 68.173387 100.110489) (xy 68.173389 100.11049) (xy 68.173496 100.110597)
 				(xy 68.173746 100.110783) (xy 68.175934 100.11196) (xy 68.273369 100.168214) (xy 68.27577 100.169706)
 				(xy 68.276111 100.169797) (xy 68.276114 100.169799) (xy 68.390691 100.2005) (xy 68.390693 100.2005)
@@ -100294,7 +100295,8 @@
 				(xy 123.9995 99.334108) (xy 123.9995 99.465892) (xy 124.014693 99.522592) (xy 124.033609 99.59319)
 				(xy 124.03361 99.593192) (xy 124.033611 99.593195) (xy 124.099495 99.707309) (xy 124.159418 99.767233)
 				(xy 124.177623 99.79229) (xy 124.188709 99.814047) (xy 124.1995 99.858993) (xy 124.1995 99.939562)
-				(xy 124.219979 100.015989) (xy 124.230833 100.034788) (xy 124.25954 100.084511) (xy 127.712766 103.537737)
+				(xy 124.21442 99.995244) (xy 124.219979 100.015989) (xy 124.223608 100.022274) (xy 124.223621 100.022301)
+				(xy 124.242045 100.05421) (xy 124.243546 100.056809) (xy 124.25954 100.084511) (xy 127.712766 103.537737)
 				(xy 127.712767 103.537739) (xy 127.759539 103.584511) (xy 127.815485 103.640456) (xy 127.815485 103.640457)
 				(xy 127.815488 103.640459) (xy 127.815489 103.64046) (xy 127.849346 103.660007) (xy 127.869851 103.67574)
 				(xy 127.888566 103.694455) (xy 127.897102 103.704189) (xy 127.899496 103.707309) (xy 127.899498 103.707311)

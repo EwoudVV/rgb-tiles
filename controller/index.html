@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RGB Tiles</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#121717;color:#e8f0eb}*{box-sizing:border-box}body{max-width:1080px;margin:40px auto;padding:0 24px}h1{font-size:36px;margin:0 0 8px}p{color:#b4c5bd;line-height:1.5}.bar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:24px 0}button,input::file-selector-button{background:#c5f279;color:#14200e;border:0;border-radius:6px;padding:11px 16px;font:inherit;font-weight:600;cursor:pointer}button.secondary{background:#2b3933;color:#e8f0eb}button:disabled{opacity:.4;cursor:default}label{display:flex;gap:10px;align-items:center}input[type=color]{width:44px;height:38px;padding:2px;background:none;border:1px solid #62736a}input[type=range]{accent-color:#c5f279;width:130px}.panel{border:1px solid #34443c;background:#0b100d;border-radius:8px;padding:18px;overflow:auto;min-height:340px;display:grid;place-items:center}canvas{image-rendering:pixelated;max-width:none;touch-action:none;cursor:crosshair}#status{color:#c5f279}#log{white-space:pre-wrap;color:#f4c39c;min-height:1.5em}small{color:#99aea2}input[type=file]{max-width:270px}a{color:#c5f279}
+</style>
+<h1>RGB Tiles</h1>
+<p>plug USB into one powered tile, connect, then find the layout. paint pixels or load an image and send it to the panel.</p>
+<div class="bar"><button id="connect">connect USB</button><button class="secondary" id="discover" disabled>find tiles</button><span id="status" role="status">disconnected</span></div>
+<div class="bar"><label>paint <input type="color" id="color" value="#e57035"></label><button class="secondary" id="fill">fill</button><button class="secondary" id="gradient">gradient</button><label>image <input id="image" type="file" accept="image/*"></label></div>
+<div class="panel"><canvas id="canvas" width="8" height="8" style="width:256px;height:256px" aria-label="panel pixel editor"></canvas></div>
+<div class="bar"><label>brightness <input type="range" id="brightness" min="0" max="255" value="32"><output id="level">32 / 255</output></label><button id="send" disabled>send frame</button><button class="secondary" id="demo" disabled>tile pattern</button><button class="secondary" id="off" disabled>lights off</button></div>
+<p><small>all tiles must face the same way. USB carries data only. use a regulated 12 V supply and the power connections described in the README. start at low brightness.</small></p>
+<div id="log" role="alert"></div>
+<script>
+'use strict';
+const $=id=>document.getElementById(id), canvas=$('canvas'), ctx=canvas.getContext('2d',{willReadFrequently:true});
+let port,writer,reader,pending,connected=false,busy=false,tiles=[],minX=0,minY=0,frame=1;
+const encoder=new TextEncoder();
+function update(){for(const id of ['discover','send','demo','off'])$(id).disabled=!connected||busy;}
+function error(e){$('log').textContent=e.message||String(e);}
+function receive(line){
+  if(!pending)return;
+  if(line.startsWith('ERR ')){const p=pending;pending=null;clearTimeout(p.timer);p.reject(Error(line));return;}
+  if(pending.list){if(line.startsWith('TILE '))pending.lines.push(line);if(line!=='END')return;}
+  else if(!line.startsWith(pending.prefix))return;
+  const p=pending;pending=null;clearTimeout(p.timer);p.resolve(p.list?p.lines:line);
+}
+async function command(text,prefix,list=false){
+  if(pending)throw Error('wait for the current command');
+  const reply=new Promise((resolve,reject)=>{pending={prefix,list,lines:[],resolve,reject,timer:setTimeout(()=>{pending=null;reject(Error('tile did not reply'));},8000)};});
+  try{await writer.write(encoder.encode(text+'\n'));}catch(e){const p=pending;pending=null;if(p){clearTimeout(p.timer);p.reject(e);}}
+  return reply;
+}
+async function readLoop(){
+  let text='';const decoder=new TextDecoder();
+  try{while(true){const {value,done}=await reader.read();if(done)break;text+=decoder.decode(value,{stream:true});let i;while((i=text.indexOf('\n'))>=0){receive(text.slice(0,i).trim());text=text.slice(i+1);}if(text.length>4096)text='';}}
+  catch(e){error(e);}finally{connected=false;update();$('status').textContent='disconnected';if(pending){clearTimeout(pending.timer);pending.reject(Error('USB disconnected'));pending=null;}reader.releaseLock();writer.releaseLock();try{await port.close();}catch{} }
+}
+async function task(fn){if(busy)return;busy=true;update();$('log').textContent='';try{await fn();}catch(e){error(e);}finally{busy=false;update();}}
+async function discover(){
+  const status=await command('STATUS','STATUS '),words=status.split(' ');
+  if(words[1]!==words[words.indexOf('ROOT')+1])throw Error('another USB tile is the coordinator. connect to '+words[words.indexOf('ROOT')+1]);
+  if(words[words.indexOf('CONFLICT')+1]!=='0'||words[words.indexOf('FULL')+1]!=='0')throw Error('layout conflict or tile limit reached');
+  frame=((Number(words[words.indexOf('FRAME')+1])+1)>>>0);
+  const lines=await command('LIST','',true);
+  tiles=lines.map(l=>{const p=l.split(' ');return {id:p[1],x:Number(p[2]),y:Number(p[3])};});
+  if(!tiles.length)throw Error('no tiles found yet. wait a few seconds and try again');
+  minX=Math.min(...tiles.map(t=>t.x));minY=Math.min(...tiles.map(t=>t.y));
+  canvas.width=(Math.max(...tiles.map(t=>t.x))-minX+1)*8;canvas.height=(Math.max(...tiles.map(t=>t.y))-minY+1)*8;
+  const scale=Math.max(1,Math.min(16,Math.floor(800/Math.max(canvas.width,canvas.height))));canvas.style.width=canvas.width*scale+'px';canvas.style.height=canvas.height*scale+'px';
+  gradient();$('status').textContent=tiles.length+' tile'+(tiles.length===1?'':'s')+' connected';
+}
+function gradient(){const g=ctx.createLinearGradient(0,0,canvas.width,canvas.height);g.addColorStop(0,'#e57035');g.addColorStop(.5,'#7ecb97');g.addColorStop(1,'#4e76d8');ctx.fillStyle=g;ctx.fillRect(0,0,canvas.width,canvas.height);}
+$('connect').onclick=()=>task(async()=>{
+  if(!('serial'in navigator))throw Error('open this page in Chrome or Edge with Web Serial support');
+  if(connected)return;
+  port=await navigator.serial.requestPort();await port.open({baudRate:115200});writer=port.writable.getWriter();reader=port.readable.getReader();connected=true;readLoop();$('status').textContent='connected';await discover();
+});
+$('discover').onclick=()=>task(discover);
+$('fill').onclick=()=>{ctx.fillStyle=$('color').value;ctx.fillRect(0,0,canvas.width,canvas.height);};$('gradient').onclick=gradient;
+$('brightness').oninput=()=>{$('level').value=$('brightness').value+' / 255';};
+let drawing=false;
+function paint(e){if(!drawing)return;const r=canvas.getBoundingClientRect(),x=Math.floor((e.clientX-r.left)*canvas.width/r.width),y=Math.floor((e.clientY-r.top)*canvas.height/r.height);if(x>=0&&y>=0&&x<canvas.width&&y<canvas.height){ctx.fillStyle=$('color').value;ctx.fillRect(x,y,1,1);}}
+canvas.onpointerdown=e=>{drawing=true;canvas.setPointerCapture(e.pointerId);paint(e);};canvas.onpointermove=paint;canvas.onpointerup=canvas.onpointercancel=()=>{drawing=false;};
+$('image').onchange=async()=>{const file=$('image').files[0];if(!file)return;try{const image=await createImageBitmap(file);ctx.drawImage(image,0,0,canvas.width,canvas.height);image.close();}catch(e){error(e);}};
+$('send').onclick=()=>task(async()=>{
+  if(!tiles.length)throw Error('find tiles first');
+  const pixels=ctx.getImageData(0,0,canvas.width,canvas.height).data;
+  for(let n=0;n<tiles.length;n++){
+    const t=tiles[n];let hex='';
+    for(let y=0;y<8;y++)for(let x=0;x<8;x++){const at=(((t.y-minY)*8+y)*canvas.width+(t.x-minX)*8+x)*4;for(let c=0;c<3;c++)hex+=pixels[at+c].toString(16).padStart(2,'0');}
+    $('status').textContent='sending tile '+(n+1)+' / '+tiles.length;await command(`FRAME ${frame} ${t.x} ${t.y} ${hex}`,'OK FRAME '+frame);
+  }
+  await command(`SHOW ${frame} ${$('brightness').value}`,'OK SHOW '+frame);frame=(frame+1)>>>0;$('status').textContent='frame sent';
+});
+for(const [id,cmd] of [['demo','DEMO'],['off','OFF']])$(id).onclick=()=>task(async()=>{await command(`${cmd} ${frame} ${$('brightness').value}`,'OK SHOW '+frame);frame=(frame+1)>>>0;$('status').textContent=cmd==='OFF'?'lights off':'tile pattern sent';});
+gradient();update();
+</script>
+</html>

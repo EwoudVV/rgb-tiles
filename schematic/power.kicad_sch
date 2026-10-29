@@ -2076,7 +2076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C0603C104K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL10B104KA8NNN.do"
 			(at 144.78 95.25 0)
 			(effects
 				(font
@@ -2099,7 +2099,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 144.78 95.25 0)
 			(effects
 				(font
@@ -2108,7 +2108,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C104K3RACTU"
+		(property "MPN" "CL10B104KA8NNNC"
 			(at 144.78 95.25 0)
 			(effects
 				(font
@@ -2197,7 +2197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C106K5RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B106KBJNNN.do"
 			(at 44.45 64.77 0)
 			(effects
 				(font
@@ -2220,7 +2220,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 44.45 64.77 0)
 			(effects
 				(font
@@ -2229,7 +2229,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1210C106K5RACTU"
+		(property "MPN" "CL32B106KBJNNNE"
 			(at 44.45 64.77 0)
 			(effects
 				(font
@@ -2318,7 +2318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C226K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B226KAJNNN.do"
 			(at 204.47 64.77 0)
 			(effects
 				(font
@@ -2341,7 +2341,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 204.47 64.77 0)
 			(effects
 				(font
@@ -2350,7 +2350,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" "CL32B226KAJNNNE"
 			(at 204.47 64.77 0)
 			(effects
 				(font
@@ -2439,7 +2439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.kemet.com/component-documentation/download/specsheet/C1210C226K3RACTU"
+		(property "Datasheet" "https://product.samsungsem.com/mlcc/CL32B226KAJNNN.do"
 			(at 250.19 64.77 0)
 			(effects
 				(font
@@ -2462,7 +2462,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "KEMET"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 250.19 64.77 0)
 			(effects
 				(font
@@ -2471,7 +2471,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1210C226K3RACTU"
+		(property "MPN" "CL32B226KAJNNNE"
 			(at 250.19 64.77 0)
 			(effects
 				(font
@@ -2699,7 +2699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L.pdf"
 			(at 85.09 110.49 0)
 			(effects
 				(font
@@ -2731,7 +2731,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-073K6L"
+		(property "MPN" "RC0603FR-133K6L"
 			(at 85.09 110.49 0)
 			(effects
 				(font
